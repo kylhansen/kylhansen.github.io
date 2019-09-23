@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<h1>{{ page.number }}: {{ page.name }}</h1>
+<h2>Discussion Sections:</h2>
+
+<ul class="posts">
+    {% for section in page.sections %}
+    <li> - {{ section.id }}, {{ section.day }}, {{ section.hour }}, {{ section.room }} </li>
+    {% endfor %}
+</ul>
+
+<h2>Class Documents:</h2>
+
+<p class="posts">
+    None.
+</p>
+

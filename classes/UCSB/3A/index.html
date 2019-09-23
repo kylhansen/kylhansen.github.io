@@ -1,0 +1,11 @@
+---
+layout: default
+---
+{{ class.number }}
+<h1>3A: Calculus With Applications I</h1>
+<h2>Select Term:</h2>
+<ul class="posts">
+    {% for class in site.classes %}
+        <li> - <a href="{{ class.url }}" title="{{ class.term }}">{{ class.term }}</a></li> 
+    {% endfor %}
+</ul>
