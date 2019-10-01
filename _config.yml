@@ -1,8 +1,10 @@
 name: Kyle Hansen
 title: kylhansen
 markdown: kramdown
-collections: 
+collections:
     classes:
         output: true
         permalink: /classes/:path
         sortby: number
+    pdfs:
+        output: true

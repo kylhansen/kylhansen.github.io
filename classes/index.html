@@ -3,6 +3,10 @@ layout: default
 title: Kyle Hansen's Classes
 ---
 <a href="\classes\learning"><h1>(Draft of) My Philosophy of Education</h1></a>
+
+{% for post in site.posts %}
+    <a href="{{ post.url }}"><h1>{{ post.title }}</h1></a>
+{% endfor %}
 <h1>Current Courses</h1>
 <ul class="posts">
     {% for class in site.classes %}
