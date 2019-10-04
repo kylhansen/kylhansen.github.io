@@ -8,3 +8,4 @@ collections:
         sortby: number
     pdfs:
         output: true
+        permalink: /classes/3A/F19/:path
