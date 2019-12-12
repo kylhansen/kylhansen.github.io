@@ -14,27 +14,9 @@ layout: default
 
 <p class="posts">
 <ul class="posts">
-    <li><a href="UCSB/3A/F19/Week_0.pdf">Week 0</a></li>
-    <li><a href="UCSB/3A/F19/Week_1.pdf">Week 1</a></li>
-    <li><a href="UCSB/3A/F19/Week_1_Answers.pdf">Week 1 Answer Guide</a></li>
-    <li><a href="UCSB/3A/F19/Week_2.pdf">Week 2</a></li>
-    <li><a href="UCSB/3A/F19/Week_2_Answers.pdf">Week 2 Answer Guide</a></li>
-    <li><a href="UCSB/3A/F19/Week_3.pdf">Week 3</a></li>
-    <li><a href="UCSB/3A/F19/Week_3_Answers.pdf">Week 3 Answer Guide</a></li>
-    <li><a href="UCSB/3A/F19/Exam_1_Practice.pdf">Exam 1 Practice Worksheet</a></li>
-    <li><a href="UCSB/3A/F19/Exam_1_Practice_Answers.pdf">Exam 1 Practice Worksheet Answer Guide</a></li>
-    <li><a href="UCSB/3A/F19/Week_4.pdf">Week 4</a></li>
-    <li><a href="UCSB/3A/F19/Week_4_Answers.pdf">Week 4 Answer Guide</a></li>
-    <li><a href="UCSB/3A/F19/Week_5.pdf">Week 5</a></li>
-    <li><a href="UCSB/3A/F19/Week_5_Answers.pdf">Week 5 Answer Guide</a></li>
-    <li><a href="UCSB/3A/F19/Week_6.pdf">Week 6</a></li>
-    <li><a href="UCSB/3A/F19/Week_6_Answers.pdf">Week 6 Answer Guide</a></li>
-    <li><a href="UCSB/3A/F19/Exam_2_Practice.pdf">Exam 2 Practice Worksheet (Week 7)</a></li>
-    <li><a href="UCSB/3A/F19/Exam_2_Practice_Answers.pdf">Exam 2 Practice Worksheet (Week 7) Answer Guide</a></li>
-    <li><a href="UCSB/3A/F19/Week_8.pdf">Week 8</a></li>
-    <li><a href="UCSB/3A/F19/Week_8_Answers.pdf">Week 8 Answer Guide</a></li>
-	<li><a href="UCSB/3A/F19/Week_10.pdf">Week 10</a></li>
-    <li><a href="UCSB/3A/F19/Week_10_Answers.pdf">Week 10 Answer Guide</a></li>
+    {% for file in page.files %}
+    <li><a href="{{ page.school }}/{{ page.number }}/{{ page.term }}/{{ file.link }}">{{ file.title }}</a></li>
+    {% endfor %}
 </ul>
 </p>
 
