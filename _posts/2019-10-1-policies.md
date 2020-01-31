@@ -10,7 +10,7 @@ Any healthy relationship has well-defined boundaries and expectations. Any well-
 ## Policies
 
 1. Aside from emergencies, if an academic conflict arises which prevents the student from attending discussion section, __24 hours notice__ must be provided in order to find an appropriate solution to the conflict.
-2. Each quarter, one unexcused absence from section may be made up by obtaining a copy of the work done in class and attending office hours and/or Math Lab when I am present to discuss the material. 
+2. Each quarter, one unexcused absence from section may be made up by obtaining a copy of the work done in class and attending office hours and/or Math Lab when I am present to discuss the material. It is the responsibility of __the student__ to contact me within 1 week about scheduling a time to make up the section.
 3. If I notice a student is actively disengaged from section (i.e. continually texting/playing on phone, distracting other students, disrupting the class), I may ask the student to leave the room, and will count this as an unexcused absence for the day.
 
 ## Boundaries
