@@ -20,7 +20,7 @@ title: "Scholarship"
 ## Presentations
 
 - Volumes of Nullhomotopies in Nilpotent Spaces (PhD Defense, 2025/05/07)
-  - [slides](media/presentations/Talks/Volumes-of-Nullhomotopies-defense-2025-05-07.pdf)
+  - [slides](media/presentations/Volumes-of-Nullhomotopies-defense-2025-05-07.pdf)
 - Mathematical Quasicrystals: The Taming of the Hullabaloo (Undergraduate Colloquium, 2025/02/05)
   - [slides](media/presentations/quasicrystals-general-2025-02-05.pdf)
 - Tiling Spaces Which are Fiber Bundles over Nilmanfiolds (41st Workshop in Geometric Topology, 2024/06/13)
