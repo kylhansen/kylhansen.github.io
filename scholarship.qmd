@@ -3,6 +3,37 @@ title: "Scholarship"
 ---
 
 ## Papers
+### Domesticated (i.e., peer-reviewed)
+
+- Volumes of Nullhomotopies in Nilpotent Spaces (Thesis; University of California, Santa Barbara; 2025)
+   - To Be Uploaded
+- Clues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)    
+   - [IEEE](https://ieeexplore.ieee.org/document/8920109)
+
+### Feral (i.e., pre-prints & arXiv)
+
+- Simple Tilings of Nilpotent Lie Groups (2024)
+   - [arXiv](http://arxiv.org/abs/2402.10194)
+   - [PDF](media/papers/Simple-tilings-2-15-24.pdf)
+
 
 ## Presentations
 
+- Volumes of Nullhomotopies in Nilpotent Spaces (PhD Defense, 2025/05/07)
+  - [slides](media/presentations/Talks/Volumes-of-Nullhomotopies-defense-2025-05-07.pdf)
+- Mathematical Quasicrystals: The Taming of the Hullabaloo (Undergraduate Colloquium, 2025/02/05)
+  - [slides](media/presentations/quasicrystals-general-2025-02-05.pdf)
+- Tiling Spaces Which are Fiber Bundles over Nilmanfiolds (41st Workshop in Geometric Topology, 2024/06/13)
+  - [slides](media/presentations/Tiling-Spaces-Fiber-Bundles-WGT24.pdf)
+- The Hull of a Manifold with Bounded Geometry (UCSB Topology Seminar, Advancement Talk 2022/05/24)
+  - [slides](media/presentations/The_Hull_of_a_Manifold_with_Bounded_Geometry.pdf)
+- An Introduction To Tiling Spaces (UCSB Graduate Topology Semniar, 2022/04/06)
+  - [slides](media/presentations/Intro_to_Tiling_Spaces.pdf)
+
+## Miscellaneous Works
+These works are not peer reviewed
+
+- Elliptic Curve Cryptography (2021)
+  - [PDF](media/papers/Elliptic_Curve_Cryptography.pdf)
+- Much Ado About Nothing, or All For Naught? Investigating the Zeros of Complex Functions (Undergraduate Honors Thesis, 2019)
+  - [PDF](media/papers/Major_Honors.pdf)

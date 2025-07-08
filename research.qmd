@@ -30,22 +30,7 @@ Recent advances in related areas have opened up some clear paths forward in this
 
 ### Papers
 
-#### Domesticated (i.e., Peer-Reviewed)
 
-1. Volumes of Nullhomotopies in Nilpotent Spaces (Thesis; University of California, Santa Barbara; 2025)
-2. Clues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)    
-- [IEEE](https://ieeexplore.ieee.org/document/8920109)
-
-#### Feral (i.e., pre-prints & arXiv)
-
-        <ul>
-          <li>Simple Tilings of Nilpotent Lie Groups (2024) 
-            <ul>
-              <li><a href="http://arxiv.org/abs/2402.10194">arXiv</a></li>
-              <li><a href="Papers/Simple-tilings-2-15-24.pdf">PDF</a></li>
-            </ul>
-          </li>
-        </ul>
 
       <h3>Talks</h3>
       <ul>

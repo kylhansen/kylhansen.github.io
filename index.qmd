@@ -4,7 +4,7 @@ title: "Kyle Hansen"
 
 :::: {layout="[ 1, 3 ]"}
 ::: {#my-photo}
-![](media/Hansen_2017_1.jpg){width=30% fig-align="left" fig-pos="t"} 
+![](media/images/Hansen_2017_1.jpg){width=30% fig-align="left" fig-pos="t"} 
 :::
 ::: {#my-information}
 
