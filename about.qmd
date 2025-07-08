@@ -21,7 +21,7 @@ My advisor [Fedya Manin](https://www.math.toronto.edu/manin/) has asked (and ans
 
 
 I have also studied elliptic manifolds, where I asked "Given a nilpotent Lie group $G$, what algebraic information is necessary/sufficient to guarantee that a closed manifold M is $G$-elliptic?" 
-In some sense, this asks which manifolds $M$ can be efficiently wrapped using the group $G$ as your wrapping paper.. 
+In some sense, this asks which manifolds $M$ can be efficiently wrapped using the group $G$ as your wrapping paper.
 Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.
 
 ### Tiling Spaces
