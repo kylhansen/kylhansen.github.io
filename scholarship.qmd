@@ -2,7 +2,10 @@
 title: "Scholarship"
 ---
 
+[arXiv](https://arxiv.org/a/0000-0002-8239-8782.html) • [Google Scholar](https://scholar.google.com/citations?user=t20yhwsAAAAJ&hl=en) • [ORCiD](https://orcid.org/0000-0002-8239-8782)
+
 ## Papers
+
 ### Domesticated (i.e., peer-reviewed)
 
 - Volumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)
