@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Kyle Hansen"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - teaching.qmd
+      - scholarship.qmd
+      - outreach.qmd
+      - other.qmd
+  
+  page-footer: 
+    center:
+      - text: "\"The moving power of mathematical invention is not reasoning, but imagination.\" —Augustus De Morgan"
+    border: true
+    background: $primary
+
+
+format:
+  html:
+    respect-user-color-scheme: true
+    theme: 
+      light: 
+        - flatly
+        - sty/light.scss
+      dark: 
+        - darkly
+        - sty/dark.scss
+    css: sty/styles.css
+    toc: true
+    toc-location: right 
+
+
+

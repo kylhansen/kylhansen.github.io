@@ -1,0 +1,23 @@
+---
+title: "Kyle Hansen"
+---
+
+:::: {layout="[ 1, 3 ]"}
+::: {#my-photo}
+![](media/Hansen_2017_1.jpg){width=30% fig-align="left" fig-pos="t"} 
+:::
+::: {#my-information}
+
+Assistant Professor of Mathematics at [Westmont College](https://www.westmont.edu/).
+
+Office: 
+
+> Winter Hall, Room 303
+
+Email (insert the appropriate punctuation):
+
+> kylhansen(\ \ )westmont(\ \ )edu
+
+
+:::
+::::
