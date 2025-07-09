@@ -1,6 +1,7 @@
 ---
-title: "Kyle Hansen"
+title: "Kyle Hansen, Ph.D."
 ---
+Assistant Professor of Mathematics, [Westmont College](https://www.westmont.edu/).
 
 :::: {layout="[ 1, 3 ]"}
 ::: {#my-photo}
@@ -8,15 +9,11 @@ title: "Kyle Hansen"
 :::
 ::: {#my-information}
 
-Assistant Professor of Mathematics at [Westmont College](https://www.westmont.edu/).
+#### Office: 
+Winter Hall, Room TBA
 
-Office: 
-
-> Winter Hall, Room 303
-
-Email (insert the appropriate punctuation):
-
-> kylhansen(\ \ )westmont(\ \ )edu
+#### Email (insert punctuation as appropriate): 
+kylhansen(\ \ )westmont(\ \ )edu
 
 
 :::
