@@ -23,7 +23,7 @@ For example, if you have a nullhomotopic map (a priori, algebraic information) i
 My advisor [Fedya Manin](https://www.math.toronto.edu/manin/) has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.
 
 
-I have also studied elliptic manifolds, where I asked "Given a nilpotent Lie group $G$, what algebraic information is necessary/sufficient to guarantee that a closed manifold M is $G$-elliptic?" 
+I have also studied elliptic manifolds, where I asked "Given a nilpotent Lie group $G$, what algebraic information is necessary/sufficient to guarantee that a closed manifold $M$ is $G$-elliptic?" 
 In some sense, this asks which manifolds $M$ can be efficiently wrapped using the group $G$ as your wrapping paper.
 Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.
 

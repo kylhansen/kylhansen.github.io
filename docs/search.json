@@ -67,14 +67,14 @@
     "href": "other.html#cv",
     "title": "Other",
     "section": "CV",
-    "text": "CV\nComing soon!"
+    "text": "CV\nSee my CV here."
   },
   {
     "objectID": "other.html#hobbies-interests",
     "href": "other.html#hobbies-interests",
     "title": "Other",
     "section": "Hobbies & Interests",
-    "text": "Hobbies & Interests\nComing soon!"
+    "text": "Hobbies & Interests\nI enjoy some of the following (not necessarily in this order):\n\nrunning\nbiking\nbaking\nswimming\nreading\n\nI am somewhat interested in philosophy and theory of the mind/consciousness, especially where connections to mathematics may be made."
   },
   {
     "objectID": "scholarship.html",
@@ -144,7 +144,7 @@
     "href": "other.html",
     "title": "Other",
     "section": "",
-    "text": "Coming soon!"
+    "text": "During my time completed the UCSB Certificate in College and University Teaching (“CCUT”) program, a description of which can be found here. My CCUT portfolio is available here."
   },
   {
     "objectID": "other.html#certifications",
@@ -152,5 +152,12 @@
     "title": "Other",
     "section": "",
     "text": "Coming soon!"
+  },
+  {
+    "objectID": "other.html#certifications-credentials",
+    "href": "other.html#certifications-credentials",
+    "title": "Other",
+    "section": "",
+    "text": "During my time completed the UCSB Certificate in College and University Teaching (“CCUT”) program, a description of which can be found here. My CCUT portfolio is available here."
   }
 ]
