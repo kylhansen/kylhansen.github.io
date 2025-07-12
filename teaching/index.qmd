@@ -1,0 +1,24 @@
+---
+title: "Teaching"
+---
+
+My class policies can be found [here](policies/index.qmd). Below is a list of courses I am teaching/have taught in the past.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(knitr)
+library(kableExtra)
+```
+
+```{r echo=FALSE}
+past_courses <- read.csv("courses.csv")
+table <- kbl(past_courses,
+    col.names = c("Year", "Term", "Institution", "ID", "Name", "Role", "Notes"), 
+    booktabs = TRUE,
+    align = rep("l", ncol(past_courses)),
+    longtable = TRUE,
+    ) %>%
+    kable_styling(bootstrap_options = c("striped", "hover"),full_width = F)
+
+table
+```

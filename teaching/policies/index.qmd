@@ -1,0 +1,82 @@
+---
+title: "Policies"
+date-modified: today
+---
+
+## A.I. 
+
+### Academic Integrity 
+
+God called us to co-create with Him as a part of our role in bearing His image. Collaboration---in which multiple people labor side-by-side towards a common goal---is a part of God's good design for community and relationship. Learning communities function best when students have academic integrity. Cheating is primarily an offense against your classmates because it undermines our learning community. Therefore, dishonesty of any kind may result in loss of credit for the work involved and the filing of a report with the Provost's Office. Major or repeated infractions may result in dismissal from the course with a grade of "F". Be familiar with the College's plagiarism policy, found at <https://www.westmont.edu/office-provost/academic-program/academic-integrity-policy>.
+
+In particular, providing someone with an electronic copy of your work is a breach of the academic integrity policy. Do not email, post online, or otherwise disseminate any of the work that you do in this class. If you keep your work on a repository, make sure it is private. You may work with others on the assignments, but make sure that you write or type up your own answers yourself. You are on your honor that the work you hand in represents your own understanding.
+
+### Artificial Intelligence 
+
+Math courses will build your character by asking you to persever through challenging problems. Such character is often built through practice. Any use of LLMs (etc.) that negate this practice will end up robbing you of your education. Moreover, you will naturally perform more poorly in this course as a result. Any unapproved use of LLMs (etc.) will constitute a breach of academic integrity.
+
+## Accommodations and Accessability 
+Westmont is committed to ensuring equal access to academic courses and college programs. In keeping with this commitment under the Americans with Disabilities Act (ADA)of 1990, Section 504 of the Rehabilitation Act of 1973, and the Americans with Disabilities Amendments Act (ADAAA) of 2008, individuals with diagnoses that impact major life activities are protected from discrimination and are entitled to reasonable accommodations. Students who choose to disclose a disability are encouraged to contact the Accessibility Resource Office (ARO) as early as possible in the semester to discuss potential accommodations for this course. Accommodations are designed to ensure equal access to programs for all students who have a disability that impacts their participation in college activities. Email [aro@westmont.edu](mailto:aro@westmont.edu) or see <https://www.westmont.edu/accessibility-resources> for more information.
+
+
+## Assignment and Assessments
+
+
+### Formatting
+
+Unless otherwise specified, all work should be handwritten (i.e., *not* typed up). Digital submissions will not be accepted except in rare, prearranged circumstances.
+
+### Credits & Collaborators
+
+You may work with others on your assignments unless otherwise specified, but make sure that you write or type up your own answers yourself. You are on your honor that the work you hand in represents your own understanding. To maintain academic integrity, your work should list all people and resources you consulted while writing up your work. 
+
+### Due Dates
+
+All assignments and assessments must be turned in by the start of class on the day they are due. Work missed or turned in late (including tests) without a valid excuse will receive a zero.
+
+
+## Classroom Etiquette 
+
+### Punctual Attendance 
+
+One of the primary resources you have in this class is the class time itself. If you miss a significant number of classes, you will almost definitely do poorly in this class. If you miss more than two weeks' worth of classes without a valid excuse, I reserve the right to terminate you from the course with a failing grade.  
+
+Please be prepared to learn before the official start of class. Arriving late, or arriving without time to prepare yourself for class, distracts both myself and your peers. If such disruption becomes a habit, we will discuss practical methods of ensuring that the start class happens after you are prepared to begin. Arriving late to class constitutes a half day's absence.
+
+### Digital Media
+
+Attendance in class requires attending in both body and in mind. Digital media has an uncanny ability to make our minds tardy. Unless arrangements have been made ahead of time, either on an individual basis or a classwide basis, digital media will not be allowed in the classroom from 5 minutes before the start of class until the end of class. Such media include (but are not limited to): cell phones, laptops, tablets, and smart watches. 
+
+For example, if class runs from 10:15-11:20am, cell phones may not be used between 10:10-11:20am while inside the classroom. This policy applies to myself, and is intended to give us a focused break from the digital media that often surrounds us, while giving us time to live embodied lives at a somewhat slower pace.
+
+
+
+<!-- ```{r, echo=F, results='asis'}
+library(fs)
+library(yaml)
+
+# List all .qmd files in the directory (excluding this index file)
+files <- dir_ls(path = ".", glob = "*.qmd")
+files <- files[basename(files) != "index.qmd"]
+
+# Function to extract title from YAML front matter
+get_title <- function(file) {
+  lines <- readLines(file, warn = FALSE)
+  if (lines[1] != "---") return("Untitled")
+
+  end <- which(lines[-1] == "---")[1] + 1
+  yaml_lines <- lines[2:(end - 1)]
+  meta <- yaml.load(paste(yaml_lines, collapse = "\n"))
+  title <- meta$title
+  if (is.null(title)) "Untitled" else title
+}
+
+# Output Markdown links using titles
+for (file in files) {
+  title <- get_title(file)
+  filename <- path_file(file)
+  # cat("{{< include ", filename, " >}} \n", sep="")
+
+  cat("[", title, "](", filename, ")\n\n", sep = "")
+}
+``` -->

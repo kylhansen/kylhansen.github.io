@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - teaching.qmd
+      - teaching/index.qmd
       - scholarship.qmd
       - outreach.qmd
       - other.qmd
@@ -35,5 +35,4 @@ format:
     toc: true
     toc-location: right 
 
-
-
+date-format: iso
