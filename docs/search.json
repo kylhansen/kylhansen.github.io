@@ -1,82 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kyle Hansen, Ph.D.",
-    "section": "",
-    "text": "Assistant Professor of Mathematics, Westmont College.\n\n\n\n\n\n\n\n\n\n\n\nOffice:\nWinter Hall, Room TBA\n\n\nEmail (insert punctuation as appropriate):\nkylhansen(  )westmont(  )edu"
-  },
-  {
-    "objectID": "scholarship.html#presentations",
-    "href": "scholarship.html#presentations",
-    "title": "Scholarship",
-    "section": "Presentations",
-    "text": "Presentations\n\nVolumes of Nullhomotopies in Nilpotent Spaces\n\nPhD Defense (2025/05/07)\n\nMathematical Quasicrystals: The Taming of the Hullabaloo\n\nUndergraduate Colloquium (2025/02/05)\n\nTiling Spaces Which are Fiber Bundles over Nilmanfiolds\n\n41st Workshop in Geometric Topology (2024/06/13)\n\nThe Hull of a Manifold with Bounded Geometry\n\nUCSB Topology Seminar, Advancement Talk (2022/05/24)\n\nAn Introduction To Tiling Spaces\n\nUCSB Graduate Topology Semniar (2022/04/06)"
-  },
-  {
-    "objectID": "outreach.html#institutional-service",
-    "href": "outreach.html#institutional-service",
-    "title": "Outreach & Service",
-    "section": "Institutional Service",
-    "text": "Institutional Service\nComing soon!"
-  },
-  {
-    "objectID": "outreach.html#volunteer",
-    "href": "outreach.html#volunteer",
-    "title": "Outreach & Service",
-    "section": "Volunteer",
-    "text": "Volunteer\nI have predominantly served at Christ Presbyterian Church Santa Barbara in a variety of ways, including: - Youth Ministry Volunteer - Security Team - Community Group Discussion Leader"
-  },
-  {
-    "objectID": "research.html#tiling-spaces",
-    "href": "research.html#tiling-spaces",
-    "title": "Research",
-    "section": "Tiling Spaces",
-    "text": "Tiling Spaces\n\nIgnore the mess below this line for now\n\nIf you want to study the complexity of a topological space, you might study the algebraic invariants of this space. Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. How does this algebraic topological complexity translate into geometric complexity? This broad question motivates the field of so-called “quantitative topology”.\nFor example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)? My advisor Fedya Manin has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.\nI also study tiling spaces, where I am interested in extending some existing theory to the relevant nilpotent setting. For example, I extend work about the topology of Euclidean tiling spaces to tiling spaces of certain nilpotent Lie groups.\nI have also studied elliptic manifolds, where I asked “Given a nilpotent Lie group \\(G\\), what algebraic information is necessary/sufficient to guarantee that a closed manifold M is \\(G\\)-elliptic?” In some sense, this asks which manifolds \\(M\\) can be efficiently wrapped using the group \\(G\\) as your wrapping paper. Until recently, there has been little indication of how to solve this problem. Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.\n\nPapers\n  &lt;h3&gt;Talks&lt;/h3&gt;\n  &lt;ul&gt;\n    &lt;li&gt;Volumes of Nullhomotopies in Nilpotent Spaces (PhD Defense, 2025/05/07)\n      &lt;ul&gt;\n        &lt;li&gt;&lt;a href=\"Talks/Volumes-of-Nullhomotopies-defense-2025-05-07.pdf\"&gt;PDF&lt;/a&gt;&lt;/li&gt;\n      &lt;/ul&gt;\n    &lt;/li&gt;\n    &lt;li&gt;Mathematical Quasicrystals: The Taming of the Hullabaloo (Undergraduate Colloquium, 2025/02/05)\n      &lt;ul&gt;\n        &lt;li&gt;&lt;a href=\"Talks/quasicrystals-general-2025-02-05.pdf\"&gt;PDF&lt;/a&gt;&lt;/li&gt;\n      &lt;/ul&gt;\n    &lt;/li&gt;\n    &lt;li&gt;Tiling Spaces Which are Fiber Bundles over Nilmanfiolds (41st Workshop in Geometric Topology, 2024/06/13)\n      &lt;ul&gt;\n        &lt;li&gt;&lt;a href=\"Talks/Tiling-Spaces-Fiber-Bundles-WGT24.pdf\"&gt;PDF&lt;/a&gt;&lt;/li&gt;\n      &lt;/ul&gt;\n    &lt;/li&gt;\n    &lt;!-- &lt;li&gt;Tiling Spaces are Fiber Bundles over Nilmanfiolds (UCSB Graduate Topology Seminar, 2/14/2024)\n      &lt;ul&gt;\n        &lt;li&gt;&lt;a href=\"Talks/Tiling-Spaces-Fiber-Bundles.pdf\"&gt;PDF&lt;/a&gt;&lt;/li&gt;\n      &lt;/ul&gt;\n    &lt;/li&gt; --&gt;\n    &lt;li&gt;The Hull of a Manifold with Bounded Geometry (UCSB Topology Seminar, Advancement Talk 2022/05/24)\n      &lt;ul&gt;\n        &lt;li&gt;&lt;a href=\"Talks/The_Hull_of_a_Manifold_with_Bounded_Geometry.pdf\"&gt;PDF&lt;/a&gt;&lt;/li&gt;\n      &lt;/ul&gt;\n    &lt;/li&gt;\n    &lt;li&gt;An Introduction To Tiling Spaces (UCSB Graduate Topology Semniar, 2022/04/06)\n      &lt;ul&gt;\n        &lt;li&gt;&lt;a href=\"Talks/Intro_to_Tiling_Spaces.pdf\"&gt;PDF&lt;/a&gt;&lt;/li&gt;\n      &lt;/ul&gt;\n    &lt;/li&gt;\n  &lt;/ul&gt;\n  &lt;h3&gt;Other Unpublished Works (definitely not peer-reviewed)&lt;/h3&gt;\n  &lt;ul&gt;\n  &lt;li&gt;Elliptic Curve Cryptography (2021)\n    &lt;ul&gt;\n      &lt;li&gt;&lt;a href=\"Papers/Elliptic_Curve_Cryptography.pdf\"&gt;PDF&lt;/a&gt;&lt;/li&gt;\n    &lt;/ul&gt; \n  &lt;/li&gt;\n  &lt;li&gt;Much Ado About Nothing, or All For Naught? Investigating the Zeros of Complex Functions (Undergraduate Honors Thesis, 2019)\n    &lt;ul&gt;\n      &lt;li&gt;&lt;a href=\"Papers/Major_Honors.pdf\" target=\"_none\"&gt;PDF&lt;/a&gt;&lt;/li&gt;\n    &lt;/ul&gt;\n  &lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/p&gt;"
-  },
-  {
-    "objectID": "teaching.html#past-courses",
-    "href": "teaching.html#past-courses",
-    "title": "Teaching",
-    "section": "Past Courses",
-    "text": "Past Courses\n\n\n\n\n\nYear\nTerm\nInstitution\nDepartment(s)\nCourse ID\nCourse Name\nRole\nNotes\n\n\n\n\n2019\nFall\nUCSB\nMathematics\n3A\nCalculus I\nTA\n\n\n\n2020\nWinter\nUCSB\nMathematics\n34A\nCalculus for Social Sciences I\nTA\n\n\n\n2020\nSpring\nUCSB\nMathematics\n8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nSummer\nUCSB\nMathematics\n8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nFall\nUCSB\nMathematics\n4A\nLinear Algebra with Applications\nTA\nCOVID\n\n\n2021\nWinter\nUCSB\nMathematics\n8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2021\nSpring\nUCSB\nMathematics\n4B\nDifferential Equations\nTA\nCOVID\n\n\n2021\nSummer\nUCSB\nMathematics\n117\nMethods of Analysis\nTA\nCOVID\n\n\n2021\nFall\nUCSB\nMathematics\n117\nMethods of Analysis\nTA\n\n\n\n2021\nFall\nWestmont College\nComputer Science/Mathematics\n015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2022\nWinter\nUCSB\nMathematics\n108A\nLinear Algebra\nTA\nCOVID\n\n\n2022\nSummer\nUCSB\nMathematics\n4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nFall\nUCSB\nMathematics\n4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nFall\nUCSB\nN/A\nTA Training\nLead TA\n\n\n\n\n2022\nFall\nWestmont College\nComputer Science/Mathematics\n015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2023\nSpring\nUCSB\nComputer Science\n040\nFoundations of Computer Science\nInstructor\nAdjunct\n\n\n2023\nSummer\nUCSB\nMathematics\n8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nFall\nWestmont College\nComputer Science/Mathematics\n015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2023\nFall\nUCSB\nMathematics\n108A\nLinear Algebra\nTA\n\n\n\n2023\nWinter\nUCSB\nMathematics\n108B\nLinear Algebra\nTA\n\n\n\n2023\nSpring\nUCSB\nMathematics\n108A\nLinear Algebra\nTA\n\n\n\n2024\nSummer\nUCSB\nMathematics\n8\nTransition to Higher Mathematics\nTA\n\n\n\n2024\nFall\nUCSB\nMathematics\n102A\nModern Euclidean and Non-Euclidean Geometry\nGrader\n\n\n\n2025\nWinter\nUCSB\nMathematics\n117\nMethods of Analysis\nTA\n\n\n\n2025\nSpring\nUCSB\nN/A\nMath Lab\nCoordinator"
-  },
-  {
-    "objectID": "about.html#educational-history",
-    "href": "about.html#educational-history",
-    "title": "About",
-    "section": "Educational History",
-    "text": "Educational History\nComing soon!"
-  },
-  {
-    "objectID": "about.html#teaching-philosophy",
-    "href": "about.html#teaching-philosophy",
-    "title": "About",
-    "section": "Teaching Philosophy",
-    "text": "Teaching Philosophy\nComing soon!"
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nQuantitative Topology\nIf you want to study the complexity of a topological space, you might study the algebraic invariants of this space. Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. How does this algebraic topological complexity translate into geometric complexity? This broad question motivates the field of so-called “quantitative topology”.\nFor example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)? My advisor Fedya Manin has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.\nI have also studied elliptic manifolds, where I asked “Given a nilpotent Lie group \\(G\\), what algebraic information is necessary/sufficient to guarantee that a closed manifold \\(M\\) is \\(G\\)-elliptic?” In some sense, this asks which manifolds \\(M\\) can be efficiently wrapped using the group \\(G\\) as your wrapping paper. Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.\n\n\nTiling Spaces\nI also study tiling spaces, where I am interested in extending some existing theory to the relevant nilpotent setting. For example, I extend work about the topology of Euclidean tiling spaces to tiling spaces of certain nilpotent Lie groups."
-  },
-  {
-    "objectID": "other.html#cv",
-    "href": "other.html#cv",
-    "title": "Other",
-    "section": "CV",
-    "text": "CV\nSee my CV here."
-  },
-  {
-    "objectID": "other.html#hobbies-interests",
-    "href": "other.html#hobbies-interests",
-    "title": "Other",
-    "section": "Hobbies & Interests",
-    "text": "Hobbies & Interests\nI enjoy some of the following (not necessarily in this order):\n\nrunning\nbiking\nbaking\nswimming\nreading\n\nI am somewhat interested in philosophy and theory of the mind/consciousness, especially where connections to mathematics may be made."
-  },
-  {
     "objectID": "scholarship.html",
     "href": "scholarship.html",
     "title": "Scholarship",
@@ -89,6 +12,13 @@
     "title": "Scholarship",
     "section": "Papers",
     "text": "Papers\n\nDomesticated (i.e., peer-reviewed)\n\nVolumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)\n\nComing soon!\n\nClues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)\n\nIEEE\n\n\n\n\nFeral (i.e., pre-prints & arXiv)\n\nSimple Tilings of Nilpotent Lie Groups (2024)\n\narXiv\nPDF"
+  },
+  {
+    "objectID": "scholarship.html#presentations",
+    "href": "scholarship.html#presentations",
+    "title": "Scholarship",
+    "section": "Presentations",
+    "text": "Presentations\n\nVolumes of Nullhomotopies in Nilpotent Spaces\n\nPhD Defense (2025/05/07)\n\nMathematical Quasicrystals: The Taming of the Hullabaloo\n\nUndergraduate Colloquium (2025/02/05)\n\nTiling Spaces Which are Fiber Bundles over Nilmanfiolds\n\n41st Workshop in Geometric Topology (2024/06/13)\n\nThe Hull of a Manifold with Bounded Geometry\n\nUCSB Topology Seminar, Advancement Talk (2022/05/24)\n\nAn Introduction To Tiling Spaces\n\nUCSB Graduate Topology Semniar (2022/04/06)"
   },
   {
     "objectID": "scholarship.html#miscellaneous-works",
@@ -112,200 +42,18 @@
     "text": "2025: Percolation Theory\n2024: Quantum Computing\n2023: Tiling Spaces"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Coming soon!"
+    "objectID": "outreach.html#institutional-service",
+    "href": "outreach.html#institutional-service",
+    "title": "Outreach & Service",
+    "section": "Institutional Service",
+    "text": "Institutional Service\nComing soon!"
   },
   {
-    "objectID": "about.html#faith",
-    "href": "about.html#faith",
-    "title": "About",
-    "section": "",
-    "text": "Coming soon!"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "My class policies can be found here."
-  },
-  {
-    "objectID": "teaching.html#current-courses",
-    "href": "teaching.html#current-courses",
-    "title": "Teaching",
-    "section": "Current Courses",
-    "text": "Current Courses"
-  },
-  {
-    "objectID": "other.html",
-    "href": "other.html",
-    "title": "Other",
-    "section": "",
-    "text": "During my time completed the UCSB Certificate in College and University Teaching (“CCUT”) program, a description of which can be found here. My CCUT portfolio is available here."
-  },
-  {
-    "objectID": "other.html#certifications",
-    "href": "other.html#certifications",
-    "title": "Other",
-    "section": "",
-    "text": "Coming soon!"
-  },
-  {
-    "objectID": "other.html#certifications-credentials",
-    "href": "other.html#certifications-credentials",
-    "title": "Other",
-    "section": "",
-    "text": "During my time completed the UCSB Certificate in College and University Teaching (“CCUT”) program, a description of which can be found here. My CCUT portfolio is available here."
-  },
-  {
-    "objectID": "teaching.html#policies",
-    "href": "teaching.html#policies",
-    "title": "Teaching",
-    "section": "",
-    "text": "My class policies can be found here."
-  },
-  {
-    "objectID": "teaching.html#courses-taught",
-    "href": "teaching.html#courses-taught",
-    "title": "Teaching",
-    "section": "Courses Taught",
-    "text": "Courses Taught\n\n\n\n\n\nYear\nTerm\nInstitution\nID\nName\nRole\nNotes\n\n\n\n\n2025\nFall\nWestmont College\nMA-110\nAbstract Algebra\nInstructor\n\n\n\n2025\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\n\n\n\n2025\nSpring\nUCSB\nN/A\nN/A\nMath Lab Coordinator\n\n\n\n2025\nWinter\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2024\nFall\nUCSB\nMA-102A\nModern Euclidean and Non-Euclidean Geometry\nGrader\n\n\n\n2024\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nWinter\nUCSB\nMA-108B\nLinear Algebra\nTA\n\n\n\n2023\nFall\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2023\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nCS-040\nFoundations of Computer Science\nInstructor\nAdjunct\n\n\n2022\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2022\nFall\nUCSB\nN/A\nTA Training\nLead TA\n\n\n\n2022\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nSummer\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nWinter\nUCSB\nMA-108A\nLinear Algebra\nTA\nCOVID\n\n\n2021\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2021\nFall\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2021\nSummer\nUCSB\nMA-117\nMethods of Analysis\nTA\nCOVID\n\n\n2021\nSpring\nUCSB\nMA-4B\nDifferential Equations\nTA\nCOVID\n\n\n2021\nWinter\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\nCOVID\n\n\n2020\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nSpring\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nWinter\nUCSB\nMA-34A\nCalculus for Social Sciences I\nTA\n\n\n\n2019\nFall\nUCSB\nMA-3A\nCalculus I\nTA"
-  },
-  {
-    "objectID": "policies.html",
-    "href": "policies.html",
-    "title": "Kyle Hansen",
-    "section": "",
-    "text": "Late Work"
-  },
-  {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Some of my class policies can be found here.\nBelow is a list of courses I am teaching/have taught in the past.\n\n\n\n\n\nYear\nTerm\nInstitution\nID\nName\nRole\nNotes\n\n\n\n\n2025\nFall\nWestmont College\nMA-110\nAbstract Algebra\nInstructor\n\n\n\n2025\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\n\n\n\n2025\nSpring\nUCSB\nN/A\nN/A\nMath Lab Coordinator\n\n\n\n2025\nWinter\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2024\nFall\nUCSB\nMA-102A\nModern Euclidean and Non-Euclidean Geometry\nGrader\n\n\n\n2024\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nWinter\nUCSB\nMA-108B\nLinear Algebra\nTA\n\n\n\n2023\nFall\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2023\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nCS-040\nFoundations of Computer Science\nInstructor\nAdjunct\n\n\n2022\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2022\nFall\nUCSB\nN/A\nTA Training\nLead TA\n\n\n\n2022\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nSummer\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nWinter\nUCSB\nMA-108A\nLinear Algebra\nTA\nCOVID\n\n\n2021\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2021\nFall\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2021\nSummer\nUCSB\nMA-117\nMethods of Analysis\nTA\nCOVID\n\n\n2021\nSpring\nUCSB\nMA-4B\nDifferential Equations\nTA\nCOVID\n\n\n2021\nWinter\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\nCOVID\n\n\n2020\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nSpring\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nWinter\nUCSB\nMA-34A\nCalculus for Social Sciences I\nTA\n\n\n\n2019\nFall\nUCSB\nMA-3A\nCalculus I\nTA"
-  },
-  {
-    "objectID": "teaching/index.html#policies",
-    "href": "teaching/index.html#policies",
-    "title": "Teaching",
-    "section": "",
-    "text": "My class policies can be found here."
-  },
-  {
-    "objectID": "teaching/index.html#courses-taught",
-    "href": "teaching/index.html#courses-taught",
-    "title": "Teaching",
-    "section": "Courses Taught",
-    "text": "Courses Taught\n\n\n\n\n\nYear\nTerm\nInstitution\nID\nName\nRole\nNotes\n\n\n\n\n2025\nFall\nWestmont College\nMA-110\nAbstract Algebra\nInstructor\n\n\n\n2025\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\n\n\n\n2025\nSpring\nUCSB\nN/A\nN/A\nMath Lab Coordinator\n\n\n\n2025\nWinter\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2024\nFall\nUCSB\nMA-102A\nModern Euclidean and Non-Euclidean Geometry\nGrader\n\n\n\n2024\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nWinter\nUCSB\nMA-108B\nLinear Algebra\nTA\n\n\n\n2023\nFall\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2023\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nCS-040\nFoundations of Computer Science\nInstructor\nAdjunct\n\n\n2022\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2022\nFall\nUCSB\nN/A\nTA Training\nLead TA\n\n\n\n2022\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nSummer\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nWinter\nUCSB\nMA-108A\nLinear Algebra\nTA\nCOVID\n\n\n2021\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2021\nFall\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2021\nSummer\nUCSB\nMA-117\nMethods of Analysis\nTA\nCOVID\n\n\n2021\nSpring\nUCSB\nMA-4B\nDifferential Equations\nTA\nCOVID\n\n\n2021\nWinter\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\nCOVID\n\n\n2020\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nSpring\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nWinter\nUCSB\nMA-34A\nCalculus for Social Sciences I\nTA\n\n\n\n2019\nFall\nUCSB\nMA-3A\nCalculus I\nTA"
-  },
-  {
-    "objectID": "teaching/policies/index.html",
-    "href": "teaching/policies/index.html",
-    "title": "Policies",
-    "section": "",
-    "text": "God called us to co-create with Him as a part of our role in bearing His image. Collaboration—in which multiple people labor side-by-side towards a common goal—is a part of God’s good design for community and relationship. Learning communities function best when students have academic integrity. Cheating is primarily an offense against your classmates because it undermines our learning community. Therefore, dishonesty of any kind may result in loss of credit for the work involved and the filing of a report with the Provost’s Office. Major or repeated infractions may result in dismissal from the course with a grade of “F”. Be familiar with the College’s plagiarism policy, found at https://www.westmont.edu/office-provost/academic-program/academic-integrity-policy.\nIn particular, providing someone with an electronic copy of your work is a breach of the academic integrity policy. Do not email, post online, or otherwise disseminate any of the work that you do in this class. If you keep your work on a repository, make sure it is private. You may work with others on the assignments, but make sure that you write or type up your own answers yourself. You are on your honor that the work you hand in represents your own understanding.\n\n\n\nMath courses will build your character by asking you to persever through challenging problems. Such character is often built through practice. Any use of LLMs (etc.) that negate this practice will end up robbing you of your education. Moreover, you will naturally perform more poorly in this course as a result. Any unapproved use of LLMs (etc.) will constitute a breach of academic integrity."
-  },
-  {
-    "objectID": "teaching/policies/policies.html",
-    "href": "teaching/policies/policies.html",
-    "title": "Kyle Hansen",
-    "section": "",
-    "text": "Late Work\nUntitled"
-  },
-  {
-    "objectID": "teaching/policies/index.html#late-work",
-    "href": "teaching/policies/index.html#late-work",
-    "title": "Late Work",
-    "section": "Late Work",
-    "text": "Late Work"
-  },
-  {
-    "objectID": "teaching/policies/index.html#title-a.i.",
-    "href": "teaching/policies/index.html#title-a.i.",
-    "title": "Late Work",
-    "section": "title: “A.I.”",
-    "text": "title: “A.I.”"
-  },
-  {
-    "objectID": "teaching/policies/index.html#academic-integrity",
-    "href": "teaching/policies/index.html#academic-integrity",
-    "title": "Digital Tools",
-    "section": "Academic Integrity",
-    "text": "Academic Integrity\nDo not rob yourself of your education."
-  },
-  {
-    "objectID": "teaching/policies/index.html#artificial-intelligence",
-    "href": "teaching/policies/index.html#artificial-intelligence",
-    "title": "Digital Tools",
-    "section": "Artificial Intelligence",
-    "text": "Artificial Intelligence\nThis includes use of LLMs (aka “Artificial Intelligence”) and other such tools."
-  },
-  {
-    "objectID": "teaching/policies/index.html#a.i.",
-    "href": "teaching/policies/index.html#a.i.",
-    "title": "Policies",
-    "section": "",
-    "text": "God called us to co-create with Him as a part of our role in bearing His image. Collaboration—in which multiple people labor side-by-side towards a common goal—is a part of God’s good design for community and relationship. Learning communities function best when students have academic integrity. Cheating is primarily an offense against your classmates because it undermines our learning community. Therefore, dishonesty of any kind may result in loss of credit for the work involved and the filing of a report with the Provost’s Office. Major or repeated infractions may result in dismissal from the course with a grade of “F”. Be familiar with the College’s plagiarism policy, found at https://www.westmont.edu/office-provost/academic-program/academic-integrity-policy.\nIn particular, providing someone with an electronic copy of your work is a breach of the academic integrity policy. Do not email, post online, or otherwise disseminate any of the work that you do in this class. If you keep your work on a repository, make sure it is private. You may work with others on the assignments, but make sure that you write or type up your own answers yourself. You are on your honor that the work you hand in represents your own understanding.\n\n\n\nMath courses will build your character by asking you to persever through challenging problems. Such character is often built through practice. Any use of LLMs (etc.) that negate this practice will end up robbing you of your education. Moreover, you will naturally perform more poorly in this course as a result. Any unapproved use of LLMs (etc.) will constitute a breach of academic integrity."
-  },
-  {
-    "objectID": "teaching/policies/index.html#title-digital-tools",
-    "href": "teaching/policies/index.html#title-digital-tools",
-    "title": "Late Work",
-    "section": "title: “Digital Tools”",
-    "text": "title: “Digital Tools”\nMy classroom is “analogue-first”, meaning that unless otherwise specified or agreed upon, digital “smart” tools are not allowed to be used. This\nDigital Tools"
-  },
-  {
-    "objectID": "teaching/policies/0001.html",
-    "href": "teaching/policies/0001.html",
-    "title": "Late Work",
-    "section": "",
-    "text": "Late work will not be accepted, except under pre-arranged and/or exceptional conditions."
-  },
-  {
-    "objectID": "teaching/policies/0002.html",
-    "href": "teaching/policies/0002.html",
-    "title": "A.I.",
-    "section": "",
-    "text": "Do not rob yourself of your education."
-  },
-  {
-    "objectID": "teaching/policies/0002.html#academic-integrity",
-    "href": "teaching/policies/0002.html#academic-integrity",
-    "title": "A.I.",
-    "section": "",
-    "text": "Do not rob yourself of your education."
-  },
-  {
-    "objectID": "teaching/policies/0002.html#artificial-intelligence",
-    "href": "teaching/policies/0002.html#artificial-intelligence",
-    "title": "A.I.",
-    "section": "Artificial Intelligence",
-    "text": "Artificial Intelligence\nThis includes use of LLMs (aka “Artificial Intelligence”) and other such tools."
-  },
-  {
-    "objectID": "teaching/policies/0003.html",
-    "href": "teaching/policies/0003.html",
-    "title": "Digital Tools",
-    "section": "",
-    "text": "My classroom is “analogue-first”, meaning that unless otherwise specified or agreed upon, digital “smart” tools are not allowed to be used. This"
-  },
-  {
-    "objectID": "teaching/policies/index.html#credit-for-late-work",
-    "href": "teaching/policies/index.html#credit-for-late-work",
-    "title": "Digital Tools",
-    "section": "",
-    "text": "Late work will not be accepted, except under pre-arranged and/or exceptional conditions."
-  },
-  {
-    "objectID": "teaching/policies/index.html#analogue-first",
-    "href": "teaching/policies/index.html#analogue-first",
-    "title": "Digital Tools",
-    "section": "Analogue-First",
-    "text": "Analogue-First\nMy classroom is “analogue-first”, meaning that unless otherwise specified or agreed upon, digital “smart” tools are not allowed to be used. This"
+    "objectID": "outreach.html#volunteer",
+    "href": "outreach.html#volunteer",
+    "title": "Outreach & Service",
+    "section": "Volunteer",
+    "text": "Volunteer\nI have predominantly served at Christ Presbyterian Church Santa Barbara in a variety of ways, including: - Youth Ministry Volunteer - Security Team - Community Group Discussion Leader"
   },
   {
     "objectID": "teaching/policies/ai.html",
@@ -329,18 +77,18 @@
     "text": "Artificial Intelligence\nThis includes use of LLMs (aka “Artificial Intelligence”) and other such tools."
   },
   {
-    "objectID": "teaching/policies/index.html#attendance",
-    "href": "teaching/policies/index.html#attendance",
+    "objectID": "teaching/policies/index.html",
+    "href": "teaching/policies/index.html",
     "title": "Policies",
-    "section": "Attendance",
-    "text": "Attendance\nOne of the primary resources you have in this class is the class time itself. If you miss a significant number of classes, you will almost definitely do poorly in this class. If you miss more than six classes without a valid excuse, I reserve the right to terminate you from the course with a failing grade."
+    "section": "",
+    "text": "God called us to co-create with Him as a part of our role in bearing His image. Collaboration—in which multiple people labor side-by-side towards a common goal—is a part of God’s good design for community and relationship. Learning communities function best when students have academic integrity. Cheating is primarily an offense against your classmates because it undermines our learning community. Therefore, dishonesty of any kind may result in loss of credit for the work involved and the filing of a report with the Provost’s Office. Major or repeated infractions may result in dismissal from the course with a grade of “F”. Be familiar with the College’s plagiarism policy, found at https://www.westmont.edu/office-provost/academic-program/academic-integrity-policy.\nIn particular, providing someone with an electronic copy of your work is a breach of the academic integrity policy. Do not email, post online, or otherwise disseminate any of the work that you do in this class. If you keep your work on a repository, make sure it is private. You may work with others on the assignments, but make sure that you write or type up your own answers yourself. You are on your honor that the work you hand in represents your own understanding.\n\n\n\nMath courses will build your character by asking you to persever through challenging problems. Such character is often built through practice. Any use of LLMs (etc.) that negate this practice will end up robbing you of your education. Moreover, you will naturally perform more poorly in this course as a result. Any unapproved use of LLMs (etc.) will constitute a breach of academic integrity."
   },
   {
-    "objectID": "teaching/policies/index.html#assignment-and-assessments",
-    "href": "teaching/policies/index.html#assignment-and-assessments",
+    "objectID": "teaching/policies/index.html#a.i.",
+    "href": "teaching/policies/index.html#a.i.",
     "title": "Policies",
-    "section": "Assignment and Assessments",
-    "text": "Assignment and Assessments\n\nFormatting\nUnless otherwise specified, all work should be handwritten (i.e., not typed up). Digital submissions will not be accepted except in rare, prearranged circumstances.\n\n\nCredits & Collaborators\nYou may work with others on your assignments unless otherwise specified, but make sure that you write or type up your own answers yourself. You are on your honor that the work you hand in represents your own understanding. To maintain academic integrity, your work should list all people and resources you consulted while writing up your work.\n\n\nDue Dates\nAll assignments and assessments must be turned in by the start of class on the day they are due. Work missed or turned in late (including tests) without a valid excuse will receive a zero."
+    "section": "",
+    "text": "God called us to co-create with Him as a part of our role in bearing His image. Collaboration—in which multiple people labor side-by-side towards a common goal—is a part of God’s good design for community and relationship. Learning communities function best when students have academic integrity. Cheating is primarily an offense against your classmates because it undermines our learning community. Therefore, dishonesty of any kind may result in loss of credit for the work involved and the filing of a report with the Provost’s Office. Major or repeated infractions may result in dismissal from the course with a grade of “F”. Be familiar with the College’s plagiarism policy, found at https://www.westmont.edu/office-provost/academic-program/academic-integrity-policy.\nIn particular, providing someone with an electronic copy of your work is a breach of the academic integrity policy. Do not email, post online, or otherwise disseminate any of the work that you do in this class. If you keep your work on a repository, make sure it is private. You may work with others on the assignments, but make sure that you write or type up your own answers yourself. You are on your honor that the work you hand in represents your own understanding.\n\n\n\nMath courses will build your character by asking you to persever through challenging problems. Such character is often built through practice. Any use of LLMs (etc.) that negate this practice will end up robbing you of your education. Moreover, you will naturally perform more poorly in this course as a result. Any unapproved use of LLMs (etc.) will constitute a breach of academic integrity."
   },
   {
     "objectID": "teaching/policies/index.html#accommodations-and-accessability",
@@ -350,25 +98,67 @@
     "text": "Accommodations and Accessability\nWestmont is committed to ensuring equal access to academic courses and college programs. In keeping with this commitment under the Americans with Disabilities Act (ADA)of 1990, Section 504 of the Rehabilitation Act of 1973, and the Americans with Disabilities Amendments Act (ADAAA) of 2008, individuals with diagnoses that impact major life activities are protected from discrimination and are entitled to reasonable accommodations. Students who choose to disclose a disability are encouraged to contact the Accessibility Resource Office (ARO) as early as possible in the semester to discuss potential accommodations for this course. Accommodations are designed to ensure equal access to programs for all students who have a disability that impacts their participation in college activities. Email aro@westmont.edu or see https://www.westmont.edu/accessibility-resources for more information."
   },
   {
-    "objectID": "teaching/policies/index.html#digital-tools",
-    "href": "teaching/policies/index.html#digital-tools",
+    "objectID": "teaching/policies/index.html#assignments-and-assessments",
+    "href": "teaching/policies/index.html#assignments-and-assessments",
     "title": "Policies",
-    "section": "Digital Tools",
-    "text": "Digital Tools\nUnless arrangements have been made ahead of time, either on an individual basis or a classwide basis, digital tools will not be allowed in the classroom from 5 minutes before the start of class until the end of class. These tools include (but are not limited to): cell phones, laptops, tablets, smart watches (watches which do not “talk” with phones are okay). For example, if class runs from 10:15-11:20am, cell phones may not be used between 10:10-11:20am while inside the classroom. This policy includes myself, and is intended to give us a focused break from the digital realm.\nA.I.\nLate Work\nDigital Tools"
+    "section": "Assignments and Assessments",
+    "text": "Assignments and Assessments\n\nFormatting\nUnless otherwise specified, all work should be handwritten (i.e., not typed up). Digital submissions will not be accepted except in rare, prearranged circumstances.\n\n\nCredits & Collaborators\nYou may work with others on your assignments unless otherwise specified, but make sure that you write or type up your own answers yourself. You are on your honor that the work you hand in represents your own understanding. To maintain academic integrity, your work should list all people and resources you consulted while writing up your work.\n\n\nDue Dates\nAll assignments and assessments must be turned in by the start of class on the day they are due. Work missed or turned in late (including tests) without a valid excuse will receive a zero."
   },
   {
-    "objectID": "teaching/policies/technology.html",
-    "href": "teaching/policies/technology.html",
-    "title": "Digital Tools",
-    "section": "",
-    "text": "My classroom is “analogue-first”, meaning that unless otherwise specified or agreed upon, digital “smart” tools are not allowed to be used. This"
+    "objectID": "teaching/policies/index.html#classroom-etiquette",
+    "href": "teaching/policies/index.html#classroom-etiquette",
+    "title": "Policies",
+    "section": "Classroom Etiquette",
+    "text": "Classroom Etiquette\n\nPunctual Attendance\nOne of the primary resources you have in this class is the class time itself. If you miss a significant number of classes, you will almost definitely do poorly in this class. If you miss more than two weeks’ worth of classes without a valid excuse, I reserve the right to terminate you from the course with a failing grade.\nPlease be prepared to learn before the official start of class. Arriving late, or arriving without time to prepare yourself for class, distracts both myself and your peers. If such disruption becomes a habit, we will discuss practical methods of ensuring that class starts after you are prepared to begin. Arriving late to class constitutes a half day’s absence.\n\n\nDigital Media\nAttendance in class requires attending in both body and in mind. Digital media has an uncanny ability to make our minds tardy. Unless arrangements have been made ahead of time, either on an individual basis or a classwide basis, digital media will not be allowed in the classroom from 5 minutes before the start of class until the end of class. Such media include (but are not limited to): cell phones, laptops, tablets, and smart watches.\nFor example, if class runs from 10:15-11:20am, cell phones may not be used between 10:10-11:20am while inside the classroom. This policy applies to myself, and is intended to give us a focused break from the digital media that often surrounds us, while giving us time to live embodied lives at a somewhat slower pace."
   },
   {
-    "objectID": "teaching/policies/technology.html#analogue-first",
-    "href": "teaching/policies/technology.html#analogue-first",
-    "title": "Digital Tools",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "My classroom is “analogue-first”, meaning that unless otherwise specified or agreed upon, digital “smart” tools are not allowed to be used. This"
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "about.html#faith",
+    "href": "about.html#faith",
+    "title": "About",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "about.html#educational-history",
+    "href": "about.html#educational-history",
+    "title": "About",
+    "section": "Educational History",
+    "text": "Educational History\nComing soon!"
+  },
+  {
+    "objectID": "about.html#teaching-philosophy",
+    "href": "about.html#teaching-philosophy",
+    "title": "About",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nComing soon!"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nQuantitative Topology\nIf you want to study the complexity of a topological space, you might study the algebraic invariants of this space. Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. How does this algebraic topological complexity translate into geometric complexity? This broad question motivates the field of so-called “quantitative topology”.\nFor example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)? My advisor Fedya Manin has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.\nI have also studied elliptic manifolds, where I asked “Given a nilpotent Lie group \\(G\\), what algebraic information is necessary/sufficient to guarantee that a closed manifold \\(M\\) is \\(G\\)-elliptic?” In some sense, this asks which manifolds \\(M\\) can be efficiently wrapped using the group \\(G\\) as your wrapping paper. Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.\n\n\nTiling Spaces\nI also study tiling spaces, where I am interested in extending some existing theory to the relevant nilpotent setting. For example, I extend work about the topology of Euclidean tiling spaces to tiling spaces of certain nilpotent Lie groups."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kyle Hansen, Ph.D.",
+    "section": "",
+    "text": "Assistant Professor of Mathematics, Westmont College.\n\n\n\n\n\n\n\n\n\n\n\nOffice:\nWinter Hall 303\n\n\nEmail (insert punctuation as appropriate):\nkylhansen(  )westmont(  )edu"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Some of my class policies can be found here.\nBelow is a list of courses I am teaching/have taught in the past.\n\n\n\n\n\nYear\nTerm\nInstitution\nID\nName\nRole\nNotes\n\n\n\n\n2025\nFall\nWestmont College\nMA-110\nAbstract Algebra\nInstructor\n\n\n\n2025\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\n\n\n\n2025\nSpring\nUCSB\nN/A\nN/A\nMath Lab Coordinator\n\n\n\n2025\nWinter\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2024\nFall\nUCSB\nMA-102A\nModern Euclidean and Non-Euclidean Geometry\nGrader\n\n\n\n2024\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nWinter\nUCSB\nMA-108B\nLinear Algebra\nTA\n\n\n\n2023\nFall\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2023\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nCS-040\nFoundations of Computer Science\nInstructor\nAdjunct\n\n\n2022\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2022\nFall\nUCSB\nN/A\nTA Training\nLead TA\n\n\n\n2022\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nSummer\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nWinter\nUCSB\nMA-108A\nLinear Algebra\nTA\nCOVID\n\n\n2021\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2021\nFall\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2021\nSummer\nUCSB\nMA-117\nMethods of Analysis\nTA\nCOVID\n\n\n2021\nSpring\nUCSB\nMA-4B\nDifferential Equations\nTA\nCOVID\n\n\n2021\nWinter\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\nCOVID\n\n\n2020\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nSpring\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nWinter\nUCSB\nMA-34A\nCalculus for Social Sciences I\nTA\n\n\n\n2019\nFall\nUCSB\nMA-3A\nCalculus I\nTA"
   },
   {
     "objectID": "teaching/policies/late.html",
@@ -385,24 +175,45 @@
     "text": "Late work will not be accepted, except under pre-arranged and/or exceptional conditions."
   },
   {
-    "objectID": "teaching/policies/index.html#digital-media",
-    "href": "teaching/policies/index.html#digital-media",
-    "title": "Policies",
-    "section": "Digital Media",
-    "text": "Digital Media\nUnless arrangements have been made ahead of time, either on an individual basis or a classwide basis, digital media will not be allowed in the classroom from 5 minutes before the start of class until the end of class. This includes (but are not limited to): cell phones, laptops, tablets, and smart watches. For example, if class runs from 10:15-11:20am, cell phones may not be used between 10:10-11:20am while inside the classroom. This policy applies to myself, and is intended to give us a focused break from the digital media that often surrounds us, while giving us time to live embodied lives at a somewhat slower pace."
+    "objectID": "teaching/policies/technology.html",
+    "href": "teaching/policies/technology.html",
+    "title": "Digital Tools",
+    "section": "",
+    "text": "My classroom is “analogue-first”, meaning that unless otherwise specified or agreed upon, digital “smart” tools are not allowed to be used. This"
   },
   {
-    "objectID": "teaching/policies/index.html#classroom-etiquette",
-    "href": "teaching/policies/index.html#classroom-etiquette",
-    "title": "Policies",
-    "section": "Classroom Etiquette",
-    "text": "Classroom Etiquette\n\nPunctual Attendance\nOne of the primary resources you have in this class is the class time itself. If you miss a significant number of classes, you will almost definitely do poorly in this class. If you miss more than two weeks’ worth of classes without a valid excuse, I reserve the right to terminate you from the course with a failing grade.\nPlease be prepared to learn before the official start of class. Arriving late, or arriving without time to prepare yourself for class, distracts both myself and your peers. If such disruption becomes a habit, we will discuss practical methods of ensuring that class starts after you are prepared to begin. Arriving late to class constitutes a half day’s absence.\n\n\nDigital Media\nAttendance in class requires attending in both body and in mind. Digital media has an uncanny ability to make our minds tardy. Unless arrangements have been made ahead of time, either on an individual basis or a classwide basis, digital media will not be allowed in the classroom from 5 minutes before the start of class until the end of class. Such media include (but are not limited to): cell phones, laptops, tablets, and smart watches.\nFor example, if class runs from 10:15-11:20am, cell phones may not be used between 10:10-11:20am while inside the classroom. This policy applies to myself, and is intended to give us a focused break from the digital media that often surrounds us, while giving us time to live embodied lives at a somewhat slower pace."
+    "objectID": "teaching/policies/technology.html#analogue-first",
+    "href": "teaching/policies/technology.html#analogue-first",
+    "title": "Digital Tools",
+    "section": "",
+    "text": "My classroom is “analogue-first”, meaning that unless otherwise specified or agreed upon, digital “smart” tools are not allowed to be used. This"
   },
   {
-    "objectID": "teaching/policies/index.html#assignments-and-assessments",
-    "href": "teaching/policies/index.html#assignments-and-assessments",
-    "title": "Policies",
-    "section": "Assignments and Assessments",
-    "text": "Assignments and Assessments\n\nFormatting\nUnless otherwise specified, all work should be handwritten (i.e., not typed up). Digital submissions will not be accepted except in rare, prearranged circumstances.\n\n\nCredits & Collaborators\nYou may work with others on your assignments unless otherwise specified, but make sure that you write or type up your own answers yourself. You are on your honor that the work you hand in represents your own understanding. To maintain academic integrity, your work should list all people and resources you consulted while writing up your work.\n\n\nDue Dates\nAll assignments and assessments must be turned in by the start of class on the day they are due. Work missed or turned in late (including tests) without a valid excuse will receive a zero."
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other",
+    "section": "",
+    "text": "During my time completed the UCSB Certificate in College and University Teaching (“CCUT”) program, a description of which can be found here. My CCUT portfolio is available here."
+  },
+  {
+    "objectID": "other.html#certifications-credentials",
+    "href": "other.html#certifications-credentials",
+    "title": "Other",
+    "section": "",
+    "text": "During my time completed the UCSB Certificate in College and University Teaching (“CCUT”) program, a description of which can be found here. My CCUT portfolio is available here."
+  },
+  {
+    "objectID": "other.html#cv",
+    "href": "other.html#cv",
+    "title": "Other",
+    "section": "CV",
+    "text": "CV\nSee my CV here."
+  },
+  {
+    "objectID": "other.html#hobbies-interests",
+    "href": "other.html#hobbies-interests",
+    "title": "Other",
+    "section": "Hobbies & Interests",
+    "text": "Hobbies & Interests\nI enjoy some of the following (not necessarily in this order):\n\nrunning\nbiking\nbaking\nswimming\nreading\n\nI am somewhat interested in philosophy and theory of the mind/consciousness, especially where connections to mathematics may be made."
   }
 ]
