@@ -2,7 +2,9 @@
 title: "Teaching"
 ---
 
-My class policies can be found [here](policies/index.qmd). Below is a list of courses I am teaching/have taught in the past.
+Some of my class policies can be found [here](policies/index.qmd). 
+
+Below is a list of courses I am teaching/have taught in the past.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
