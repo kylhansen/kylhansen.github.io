@@ -1,0 +1,19 @@
+---
+title: "Suggestions and other documents"
+date-modified: today
+---
+
+```{r, echo=F, results='asis'}
+library(fs)
+library(yaml)
+
+# List all .qmd files in the directory (excluding this index file)
+files <- dir_ls(path = ".", glob = "*.pdf")
+files <- files[basename(files) != "index.qmd"]
+
+# Output Markdown links using titles
+for (file in files) {
+
+  cat("[", file, "](", file, ")\n\n", sep = "")
+}
+```
