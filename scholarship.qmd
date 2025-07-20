@@ -9,7 +9,8 @@ title: "Scholarship"
 ### Domesticated (i.e., peer-reviewed)
 
 - Volumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)
-   - Coming soon!
+   - [PDF](media/papers/hansen-dissertation-2025-05-02.pdf)
+   - ProQuest Link Coming soon!
 - Clues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)    
    - [IEEE](https://ieeexplore.ieee.org/document/8920109)
 
