@@ -5,6 +5,7 @@ title: "Outreach & Service"
 ## Outreach
 
 ### UCSB, Directed Reading Program ([DRP](https://www.ucsbdrp.org/))
+
 - 2025: Percolation Theory
 - 2024: Quantum Computing
 - 2023: Tiling Spaces
@@ -14,6 +15,7 @@ Coming soon!
 
 ## Volunteer
 I have predominantly served at [Christ Presbyterian Church Santa Barbara](https://cpcsb.org/) in a variety of ways, including:
+
 - Youth Ministry Volunteer
 - Security Team
 - Community Group Discussion Leader
