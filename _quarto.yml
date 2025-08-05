@@ -4,15 +4,20 @@ project:
 
 website:
   title: "Kyle Hansen"
+  site-url: https://kylhansen.github.io/
   navbar:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - teaching/index.qmd
-      - scholarship.qmd
-      - outreach.qmd
-      - other.qmd
+      - text: About My...
+        menu: 
+          - teaching/index.qmd
+          - scholarship.qmd
+          - outreach.qmd
+          - text: Website
+            href: about.qmd
+      - href: posts.qmd
+        text: Blog
   
   page-footer: 
     center:
@@ -36,3 +41,4 @@ format:
     toc-location: right 
 
 date-format: iso
+title-block-banner: true

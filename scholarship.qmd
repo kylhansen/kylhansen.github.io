@@ -1,8 +1,8 @@
 ---
 title: "Scholarship"
+description: "[arXiv](https://arxiv.org/a/0000-0002-8239-8782.html) • [Google Scholar](https://scholar.google.com/citations?user=t20yhwsAAAAJ&hl=en) • [ORCiD](https://orcid.org/0000-0002-8239-8782)"
 ---
 
-[arXiv](https://arxiv.org/a/0000-0002-8239-8782.html) • [Google Scholar](https://scholar.google.com/citations?user=t20yhwsAAAAJ&hl=en) • [ORCiD](https://orcid.org/0000-0002-8239-8782)
 
 ## Papers
 

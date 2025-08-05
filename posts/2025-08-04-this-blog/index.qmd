@@ -1,0 +1,47 @@
+---
+title: "Lab Book"
+subtitle: "Fall 2025"
+description: "Introducing the function of this blog as a lab book, and setting the stage for Fall 2025 (and beyond?)"
+date: 2025-08-04
+author: Kyle Hansen
+image: preview-image.jpg
+categories: [Meta, Lab Book]
+draft: true
+---
+
+## Introduction
+
+What do you expect this blog post to be about? Seriously, take 10 seconds (no more) and make a guess.
+
+It has been demonstrated^[citation needed] that one is most effectively primed to learn new knowledge and information when one tries to make predictions about the new information to be received. This allows the brain to more readily find fitting connections for the new information to be slotted into the network of one's pre-existing knowledge, solidifying old pathways while generating new ones. Later on, that connection (and the information itself) is solidified through the practice of retrieving the knowledge. This makes learning naturally into a three-act play.^[I'm going to actively stop myself now from talking about the likely connection between the classical trivium, and instead make note that I'll want to make a connection there later on.] 
+
+### The Purpose of the Lab Book 
+
+You might be familiar with this three-act structure in the form of lab reports, where you have a hypothesis, the experiment itself, and the results/discussion. Teaching is, in many ways, a continual experiement where none of the variables are held constant. Because this three-act structure is so widely used both as a way of building one's knowledge, and for building **on** one's knowledge through experimentation, I plan to implement a similar outline for evaluation of my classroom experiments as a teacher.
+
+This blog, then, can be considered my personal lab book. In it, I intend to express my expectations, my decisions, and my reactions/reflections throughout my teaching career. Because my own new learning will be interwoven with these stages, other notes and reflections on various readings/ideas will likely be strewn about as well.^[It might just devolve into a blog where I reflect on/post about various things, but hey, at least I'm trying to set some goals here.]
+
+### This Post as a Preface
+
+If this blog is a lab book, this post is the introduction to my first attempt at keeping a lab book. In it, I intend to set the stage for how I expect to maintain this lab book throughout the upcoming term, and (perhaps) beyond. This is a meta-post, in the sense that it is itself a preview of my experimental method; later, I should end up making some meta-notes about the experiment of this experimental method, and after that, review some of the things that wend well and what went poorly, and how to revise my method.^[I'm restraining myself from diving deeper into the recursive meta-hole that I've just opened up.]
+
+## The Experiment
+
+This upcoming term, I plan to implement three phases to the experiment of my teaching. I will call these three stages the PRE-views, the INTER-views, and the RE-views of the term.^[I'm a Presbyterian, so get used to three-point structures and mneumonic devices.]
+
+I hit the point of diminishing returns a while ago, and should have stopped writing like...an hour ago. I'm still learning to stop before that happens. Whoops. I'll get to writing this tomorrow. or the next day.
+
+1. PRE-view (influenced by past reviews, aimed at future interviews)
+2. INTER-view (influenced by past previews, aimed at future reviews)
+3. RE-view (influenced by past interviews, aimed at future previews)
+
+### Extrapolation and Plans
+
+## Goals of Regularity and Accountability
+
+### Pre-term expectations 
+
+### Mid-term reports 
+
+### Post-term evalutations
+

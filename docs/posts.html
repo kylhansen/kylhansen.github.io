@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Assistant Professor of Mathematics, Westmont College">
+<meta name="description" content="Browse through some posts/reflections below">
 
-<title>Kyle Hansen, Ph.D.&nbsp;– Kyle Hansen</title>
+<title>A blog – Kyle Hansen</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -72,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -295,7 +326,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -322,7 +353,7 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
+    <a class="nav-link active" href="./posts.html" aria-current="page"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -337,10 +368,11 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Kyle Hansen, Ph.D.</h1>
+      <h1 class="title">A blog</h1>
+            <p class="subtitle lead">…or something like that</p>
                   <div>
         <div class="description">
-          Assistant Professor of Mathematics, <a href="https://www.westmont.edu/">Westmont College</a>
+          Browse through some posts/reflections below
         </div>
       </div>
                 </div>
@@ -359,18 +391,8 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me">About Me</a>
-  <ul class="collapse">
-  <li><a href="#a-brief-bio" id="toc-a-brief-bio" class="nav-link" data-scroll-target="#a-brief-bio">A Brief Bio</a></li>
-  <li><a href="#research-interests" id="toc-research-interests" class="nav-link" data-scroll-target="#research-interests">Research Interests</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -379,51 +401,16 @@ window.Quarto = {
 
 
 
-<div class="quarto-layout-panel" data-layout="[ 1, 3 ]">
-<div class="quarto-layout-row">
-<div id="my-photo" class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><img src="media/images/2025-05-15 UCSB headshot.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" data-fig-pos="t"></p>
-</figure>
-</div>
-</div>
-<div id="my-information" class="quarto-layout-cell" style="flex-basis: 75.0%;justify-content: flex-start;">
-<section id="office" class="level4">
-<h4 class="anchored" data-anchor-id="office">Office:</h4>
-<p>Winter Hall 303</p>
-</section>
-<section id="email-insert-punctuation-as-appropriate" class="level4">
-<h4 class="anchored" data-anchor-id="email-insert-punctuation-as-appropriate">Email (insert punctuation as appropriate):</h4>
-<p>kylhansen(&nbsp;&nbsp;)westmont(&nbsp;&nbsp;)edu</p>
-</section>
-</div>
-</div>
-</div>
-<section id="about-me" class="level2">
-<h2 class="anchored" data-anchor-id="about-me">About Me</h2>
-<section id="a-brief-bio" class="level3">
-<h3 class="anchored" data-anchor-id="a-brief-bio">A Brief Bio</h3>
-<p>The Christian liberal arts have been a driving force throughout my life. My early education at <a href="https://veritasschool.net/">Veritas School</a> in Newberg, Oregon developed in my a passion for lifelong learning, which led me to study Mathematics and Computer Science at <a href="https://www.westmont.edu/">Westmont College</a>. I graduated in 2019, and—inspired by a summer of research with <a href="https://www.westmont.edu/people/russell-w-howell-phd">Dr.&nbsp;Russell Howell</a>—pursued a Ph.D.&nbsp;in Mathematics at <a href="https://www.math.ucsb.edu/">UC Santa Barbara</a>. Under the direction of my advisor, <a href="https://www.math.toronto.edu/manin/">Dr.&nbsp;Fedya Manin</a>, I studied how nilpotent algebraic structures influence both the geometric behavior of topological spaces, as well as the patterns of aperiodic tilings. I defended <a href="media/papers/hansen-dissertation-2025-05-02.pdf">my thesis</a> in 2025. That same fall, I returned with enthusiasm to Westmont College as an Assistant Professor of Mathematics. In my leisure time, I can be found <a href="https://quireofvoyces.org/">singing</a>, <a href="https://www.goodreads.com/kylehansen">reading</a>, <a href="media/images/tri_swim.jpeg">swimming</a>, <a href="media/images/tri_bike.jpeg">biking</a>, <a href="media/images/tri_run.jpeg">running</a>, (or <a href="https://www.santabarbaratriathlon.com/">all three</a>), <a href="media/images/croissants.jpeg">baking</a>, and enjoying the company of <a href="https://cpcsb.org/">my church family</a>.</p>
-</section>
-<section id="research-interests" class="level3">
-<h3 class="anchored" data-anchor-id="research-interests">Research Interests</h3>
-<section id="quantitative-topology" class="level4">
-<h4 class="anchored" data-anchor-id="quantitative-topology">Quantitative Topology</h4>
-<p>If you want to study the complexity of a topological space, you might study the algebraic invariants of this space. Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. How does this algebraic topological complexity translate into geometric complexity? This broad question motivates the field of so-called “quantitative topology”.</p>
-<p>For example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)? My advisor <a href="https://www.math.toronto.edu/manin/">Fedya Manin</a> has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.</p>
-<p>I have also studied elliptic manifolds, where I asked “Given a nilpotent Lie group <span class="math inline">\(G\)</span>, what algebraic information is necessary/sufficient to guarantee that a closed manifold <span class="math inline">\(M\)</span> is <span class="math inline">\(G\)</span>-elliptic?” In some sense, this asks which manifolds <span class="math inline">\(M\)</span> can be efficiently wrapped using the group <span class="math inline">\(G\)</span> as your wrapping paper. Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.</p>
-</section>
-<section id="tiling-spaces" class="level4">
-<h4 class="anchored" data-anchor-id="tiling-spaces">Tiling Spaces</h4>
-<p>I also study tiling spaces, where I am interested in extending some existing theory to the relevant nilpotent setting. For example, I extend work about the topology of Euclidean tiling spaces to tiling spaces of certain nilpotent Lie groups.</p>
 
 
-</section>
-</section>
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

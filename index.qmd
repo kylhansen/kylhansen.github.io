@@ -1,7 +1,7 @@
 ---
 title: "Kyle Hansen, Ph.D."
+description: "Assistant Professor of Mathematics, [Westmont College](https://www.westmont.edu/)"
 ---
-Assistant Professor of Mathematics, [Westmont College](https://www.westmont.edu/).
 
 :::: {layout="[ 1, 3 ]"}
 ::: {#my-photo}
@@ -18,3 +18,28 @@ kylhansen(\ \ )westmont(\ \ )edu
 
 :::
 ::::
+
+## About Me
+
+### A Brief Bio
+
+The Christian liberal arts have been a driving force throughout my life. My early education at [Veritas School](https://veritasschool.net/) in Newberg, Oregon developed in my a passion for lifelong learning, which led me to study Mathematics and Computer Science at [Westmont College](https://www.westmont.edu/). I graduated in 2019, and—inspired by a summer of research with [Dr. Russell Howell](https://www.westmont.edu/people/russell-w-howell-phd)—pursued a Ph.D. in Mathematics at [UC Santa Barbara](https://www.math.ucsb.edu/). Under the direction of my advisor, [Dr. Fedya Manin](https://www.math.toronto.edu/manin/), I studied how nilpotent algebraic structures influence both the geometric behavior of topological spaces, as well as the patterns of aperiodic tilings. I defended [my thesis](media/papers/hansen-dissertation-2025-05-02.pdf) in 2025. That same fall, I returned with enthusiasm to Westmont College as an Assistant Professor of Mathematics. In my leisure time, I can be found [singing](https://quireofvoyces.org/), [reading](https://www.goodreads.com/kylehansen), [swimming](media/images/tri_swim.jpeg), [biking](media/images/tri_bike.jpeg), [running](media/images/tri_run.jpeg), (or [all three](https://www.santabarbaratriathlon.com/)), [baking](media/images/croissants.jpeg), and enjoying the company of [my church family](https://cpcsb.org/).
+
+### Research Interests
+
+#### Quantitative Topology
+If you want to study the complexity of a topological space, you might study the algebraic invariants of this space.
+Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. 
+How does this algebraic topological complexity translate into geometric complexity?
+This broad question motivates the field of so-called "quantitative topology".
+
+For example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)?
+My advisor [Fedya Manin](https://www.math.toronto.edu/manin/) has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.
+
+I have also studied elliptic manifolds, where I asked "Given a nilpotent Lie group $G$, what algebraic information is necessary/sufficient to guarantee that a closed manifold $M$ is $G$-elliptic?" 
+In some sense, this asks which manifolds $M$ can be efficiently wrapped using the group $G$ as your wrapping paper.
+Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.
+
+#### Tiling Spaces
+I also study tiling spaces, where I am interested in extending some existing theory to the relevant nilpotent setting. 
+For example, I extend work about the topology of Euclidean tiling spaces to tiling spaces of certain nilpotent Lie groups.

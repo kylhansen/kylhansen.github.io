@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Other – Kyle Hansen</title>
+<title>Career – Kyle Hansen</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -268,25 +268,32 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-my..." role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About My…</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about-my...">    
+        <li>
+    <a class="dropdown-item" href="./teaching/index.html">
+ <span class="dropdown-text">Teaching</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./teaching/index.html"> 
-<span class="menu-text">Teaching</span></a>
+        <li>
+    <a class="dropdown-item" href="./scholarship.html">
+ <span class="dropdown-text">Scholarship</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./scholarship.html"> 
-<span class="menu-text">Scholarship</span></a>
+        <li>
+    <a class="dropdown-item" href="./outreach.html">
+ <span class="dropdown-text">Outreach &amp; Service</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./outreach.html"> 
-<span class="menu-text">Outreach &amp; Service</span></a>
+        <li>
+    <a class="dropdown-item" href="./about.html">
+ <span class="dropdown-text">Website</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./other.html" aria-current="page"> 
-<span class="menu-text">Other</span></a>
+    <a class="nav-link" href="./posts.html"> 
+<span class="menu-text">Blog</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -320,7 +327,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Other</h1>
+<h1 class="title">Career</h1>
 </div>
 
 
@@ -341,7 +348,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="certifications-credentials">Certifications &amp; Credentials</h2>
 <section id="ccut-portfolio" class="level3">
 <h3 class="anchored" data-anchor-id="ccut-portfolio">CCUT Portfolio</h3>
-<p>During my time completed the UCSB <a href="https://www.graddiv.ucsb.edu/policy-procedure/certificate-in-teaching">Certificate in College and University Teaching</a> (“CCUT”) program, a description of which can be found <a href="media/other/CCUT_Program_Overview.pdf">here</a>. My CCUT portfolio is available <a href="media/other/CCUT Portfolio Hansen 2025-05-13.pdf">here</a>.</p>
+<p>During my time in graduate school I completed the UCSB <a href="https://www.graddiv.ucsb.edu/policy-procedure/certificate-in-teaching">Certificate in College and University Teaching</a> (“CCUT”) program, a description of which can be found <a href="media/other/CCUT_Program_Overview.pdf">here</a>. My CCUT portfolio is available <a href="media/other/CCUT Portfolio Hansen 2025-05-13.pdf">here</a>.</p>
 </section>
 </section>
 <section id="cv" class="level2">
@@ -352,11 +359,11 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="hobbies-interests">Hobbies &amp; Interests</h2>
 <p>I enjoy some of the following (not necessarily in this order):</p>
 <ul>
-<li>running</li>
-<li>biking</li>
-<li>baking</li>
-<li>swimming</li>
-<li>reading</li>
+<li><a href="media/images/tri_run.jpeg">running</a></li>
+<li><a href="media/images/tri_bike.jpeg">biking</a></li>
+<li><a href="media/images/tri_swim.jpeg">swimming</a></li>
+<li><a href="media/images/croissants.jpeg">baking</a></li>
+<li><a href="https://www.goodreads.com/kylehansen">reading</a></li>
 </ul>
 <p>I am somewhat interested in philosophy and theory of the mind/consciousness, especially where connections to mathematics may be made.</p>
 
@@ -449,7 +456,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/kylhansen\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
