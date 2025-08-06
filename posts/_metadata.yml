@@ -1,2 +1,11 @@
 # re-render posts only when a change to the source file is made ----
 freeze: auto
+
+author:
+  - name: Kyle Hansen
+    url: https://kylhansen.github.io/
+    orcid: 0000-0002-8239-8782
+    affiliation: Assistant Professor of Mathematics, Westmont College
+    affiliation-url: https://www.westmont.edu/mathematics
+
+bibliography: references.bib
