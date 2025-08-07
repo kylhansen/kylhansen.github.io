@@ -1,0 +1,9 @@
+---
+title: "TITLE"
+subtitle: "SUBTITLE"
+description: "DESCRIPTION"
+date: YYYY-MM-DD
+image: preview-image.jpg
+categories: []
+draft: true
+---
