@@ -1,47 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kylhansen.github.io/about.html</loc>
-    <lastmod>2025-08-05T04:35:55.237Z</lastmod>
+    <loc>https://kylhansen.github.io/scholarship.html</loc>
+    <lastmod>2025-08-05T05:25:08.932Z</lastmod>
   </url>
   <url>
     <loc>https://kylhansen.github.io/posts.html</loc>
     <lastmod>2025-08-05T06:21:46.375Z</lastmod>
   </url>
   <url>
-    <loc>https://kylhansen.github.io/other.html</loc>
-    <lastmod>2025-08-05T04:33:39.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/posts/2025-08-04-introduction/index.html</loc>
-    <lastmod>2025-08-05T05:07:46.379Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/index.html</loc>
-    <lastmod>2025-08-05T06:21:33.323Z</lastmod>
+    <loc>https://kylhansen.github.io/teaching/suggestions/index.html</loc>
+    <lastmod>2025-07-14T05:43:27.221Z</lastmod>
   </url>
   <url>
     <loc>https://kylhansen.github.io/teaching/index.html</loc>
     <lastmod>2025-07-14T05:45:30.104Z</lastmod>
   </url>
   <url>
+    <loc>https://kylhansen.github.io/index.html</loc>
+    <lastmod>2025-08-05T06:21:33.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kylhansen.github.io/posts/2025-08-04-lab-book/index.html</loc>
+    <lastmod>2025-08-07T04:45:05.993Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kylhansen.github.io/about.html</loc>
+    <lastmod>2025-08-05T04:35:55.237Z</lastmod>
+  </url>
+  <url>
     <loc>https://kylhansen.github.io/teaching/policies/index.html</loc>
     <lastmod>2025-08-05T03:53:29.863Z</lastmod>
   </url>
   <url>
-    <loc>https://kylhansen.github.io/teaching/suggestions/index.html</loc>
-    <lastmod>2025-07-14T05:43:27.221Z</lastmod>
+    <loc>https://kylhansen.github.io/outreach.html</loc>
+    <lastmod>2025-08-05T03:48:20.789Z</lastmod>
   </url>
   <url>
-    <loc>https://kylhansen.github.io/scholarship.html</loc>
-    <lastmod>2025-08-05T05:25:08.932Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/posts/2025-08-04-this-blog/index.html</loc>
-    <lastmod>2025-08-05T06:22:39.163Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/posts/2025-08-04-lab-book/index.html</loc>
-    <lastmod>2025-08-06T04:30:25.230Z</lastmod>
+    <loc>https://kylhansen.github.io/other.html</loc>
+    <lastmod>2025-08-05T04:33:39.249Z</lastmod>
   </url>
 </urlset>
