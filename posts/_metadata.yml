@@ -1,5 +1,6 @@
 # re-render posts only when a change to the source file is made ----
 freeze: auto
+draft-mode: gone
 
 author:
   - name: Kyle Hansen
