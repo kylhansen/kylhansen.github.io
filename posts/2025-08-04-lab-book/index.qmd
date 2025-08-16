@@ -3,6 +3,7 @@ title: "Lab Book"
 subtitle: "Fall 2025"
 description: "setting the stage for Fall 2025 (and beyond?)"
 date: 2025-08-04
+date-modified: today
 image: preview-image.jpg
 categories: [Meta]
 # draft: true
@@ -12,13 +13,13 @@ categories: [Meta]
 
 What do you expect this blog post to be about? Seriously, take 10 seconds (no more) and make a guess.
 
-It has been demonstrated^[citation needed] that one is most effectively primed to learn new knowledge and information when one tries to make predictions about the new information to be received. This allows the brain to more readily find fitting connections for the new information to be slotted into the network of one's pre-existing knowledge, solidifying old pathways while generating new ones. Later on, that connection (and the information itself) is solidified through the practice of retrieving the knowledge. This makes learning naturally into a three-act play.^[I'm going to actively stop myself now from talking about the likely connection between the classical trivium, and instead make note that I'll want to make a connection there later on.] 
+Making predictions about new information before being formally exposed to it can prime one to make deeper connections with one's pre-existing web of knowledge.^[citation needed] This allows one to solidify old neural pathways while generating new ones, strengething one's immediate understanding of the knowledge as well. Later on, that connection (and the information itself) is solidified through the practice of retrieving the knowledge. This naturally separates learning into three-acts: thinking *before* one learns something new, *during* the learning process, and *after* the learning has been "complete".^[I'm going to actively stop myself now from talking about the likely connection between the classical trivium, and instead make note that I'll want to make a connection there later on.] 
 
 ### The Purpose of the Lab Book 
 
-This three-act structure may be familiar, for example taking the form of lab reports, where you have a hypothesis, the experiment itself, and the results/discussion, or even of the arc of a novel. Teaching, learning, and professional development are, in many ways, a continual experiement where none of the variables are held constant. Because this three-act structure is so widely used both as a way of building one's knowledge, and for building **on** one's knowledge through experimentation, I plan to implement a similar outline for evaluation of my classroom experiments as a teacher, as well as for outlining my own professional development.
+This three-act structure may be familiar, for example taking the form of lab reports, where you have a hypothesis, the experiment itself, and the results/discussion. Teaching, learning, and professional development are, in many ways, a continual experiement where none of the variables are held constant. I plan to implement a similar structure for presenting, tracking, and reviewing my professorial career.
 
-This blog, then, can be considered my professional development lab book. In it, I intend to express my expectations, my decisions, and my reactions/reflections throughout my teaching career.^[It might just devolve into a blog where I reflect on/post about various things, but hey, at least I'm trying to set some goals here.]
+This blog, then, can be considered my professional development lab book. In it, I intend to express my expectations, my decisions, and my reactions/reflections throughout my professorial career.^[It might just devolve into a blog where I reflect on/post about various things, but hey, at least I'm trying to set some goals here.]
 
 ### This Post as a Preface
 
@@ -28,13 +29,13 @@ If this blog is a lab book, this post is the introduction to my first attempt at
 
 This upcoming term, I plan to implement three phases to the experiment of my professorship. I will call these three stages the *PRE*views, the *INTER*views, and the *RE*views of the term.^[I'm a Presbyterian, so get used to three-point structures and mneumonic devices.]
 
-I hit the point of diminishing returns a while ago, and should have stopped writing like...an hour ago. I'm still learning to stop before that happens. Whoops. I'll get to writing this tomorrow. or the next day.
+I hit the point of diminishing returns a while ago, and should have stopped writing like...an hour ago. I'm still learning to stop before that happens. Whoops. I'll get to writing this tomorrow, or the next day.
 
 *20-ish hours later*
 
 I'm now returning to this blog post. I'm trying to implement active approaches to stopping early, before diminishing returns set in.^[This was introduced to me most recently by Robert Boice's book *Advice for New Faculty Members: Nihil Nimus*. I'll try to learn later how to properly create citations for this blog.] This might mean leaving some ideas unfinished, and returning to them at a later time, working in brief regular sessions to lower the barrier to re-entry.^[This too from Boice. Haven't figured out correct citations yet.] I failed at this yesterday, but I'm back.
 
-I expect this blog and its structure as outlined below to provide me opportunities for breif, regular sessions^[Again, this idea of brief regular sessions is from [@boice2000advice]. (Hey look, I think I figured out citations!)] of preparation and reflection as I process my teaching, research, and service as a professor. In the rest of this section, I outline some of my current working philosophy behind the three-act structure (PRE-, INTER-, and RE-views) I expect my notes to take.
+I expect this blog and its structure as outlined below to provide me opportunities for brief, regular sessions^[Again, this idea of brief regular sessions is from [@boice2000advice]. (Hey look, I think I figured out citations!)] of preparation and reflection as I process my teaching, research, and service as a professor. In the rest of this section, I outline some of my current working philosophy behind the three-act structure (PRE-, INTER-, and RE-views) I expect my notes to take.
 
 ### PREviews
 
@@ -42,10 +43,10 @@ I expect this blog and its structure as outlined below to provide me opportuniti
 Influenced by past REviews, and aimed at future INTERviews, *PRE*view posts will break down some of my current nebulous ideas, plans, and goals into goals, plans, and ideas worth investigating.
 ::: 
 
-*PRE*views will accompany the start of a new, nebulous agenda (e.g., new semester, new research project, new professional development goal) for which there is no due date for completion. A due date for a future REview should be proposed. These posts will break down large-scale tasks into somewhat smaller-scope tasks/goals (which may themselves be nebulous in scope) which cannot be concretely said to be "complete". I will present my current understanding/ideas, as well as predictions about how I might grow or develop (or not!), and give me some frame of reference for how my own thinking has changed (or not!) when I later revisit these goals.^[or not!]
+*PRE*views will accompany the start of a new, nebulous or otherwise large-scale agenda (e.g., new semester, new research project, new professional development goal) for which there is no due date, or where the due date is very far away. Due dates for regular REviews should be proposed. These posts will break down large-scale tasks into somewhat smaller-scope tasks/goals (which may themselves be nebulous in scope). I will present my current understanding/ideas of this larger task, as well as make predictions about how I might grow or develop (or not!). This will give me some frame of reference for how my own thinking has changed (or not!) when I later revisit these goals.^[or not!]
 
 ::: {.callout-note title="Example" icon=false}
-I want to grow as an instructor. This is a large-scale, personal goal, which has a nebulous/ill-defined end. I may write a PREview blog post about this goal, outlining some of the specific ways I hope to grow, for example by learning about "alternative grading" methods. Because this step is itself nebulous, it would likely require its own PREview blog post, where I track some of the reasons I want to explore alternative grading, my expectations/initial thoughts about it, as well as how I plan to learn more about it, etc. 
+I want to attain promotion to associate professor of mathematics by spring 2031. This is a large-scale, personal goal, which has a nebulous agenda. I may write a PREview blog post about this goal, outlining some of the specific institutional expectations, as well as ways I hope to meet those expectations. Because each step/expectation will itself be somewhat nebulous, each step (such as demonstrating "evidence of continued growth towards teaching excellence") would likely require its own PREview blog post, where I track some of my expectations/initial thoughts about it, as well as how I plan to learn more about it, etc. 
 
 TO DO: later, once I've done this, just like...actually link to it!
 :::
@@ -73,7 +74,7 @@ Influenced by past INTERviews, aimed at informing future PREviews, I plan to con
 *RE*views will be used to assess my progress towards large-scare goals/projects, often as an attempt to synthesize and connect some of the relevant material. These posts should therefore be linked to due dates proposed by PREviews, while reflecting some of the knowledge and understanding developed throughout the relevant INTERviews. These REviews may therefore look more like philosophizing, proposing/testing my ideas and beliefs, and asking questions for further exploration. (Note: these will not be works of publishable quality, nor should they be treated as such.) 
 
 ::: {.callout-note title="Example" icon=false}
-Remember that I want to learn about "alternative grading" methods. Assume I've learned about them throughout the course of a year, and recall that I have (supposedly) attended a workshop at MathFest25 on the topic. Assume I've also read through three different syllabi on alternative grading. At the end of that year, I might write a review about the pros/cons of alternative grading, and my response to it; at the end of that response, I may conclude that I want to attempt an implementation of alternative grading. This would likely lead me to create a new PREview post where I discuss my plan to implement alternative grading.
+Remember that I want to learn about "alternative grading" methods. Assume I've learned about them throughout the course of a year, and recall that I have (supposedly) attended a workshop at MathFest25 on the topic. Assume I've also read through three different syllabi that utilize alternative grading. At the end of that year, I might write a review about the pros/cons of alternative grading, and my response to it; at the end of that response, I may conclude that I want to attempt an implementation of alternative grading. This would likely lead me to create a new PREview post where I discuss my plan to implement alternative grading.
 
 TO DO: later, once I've done this, just like...actually link to it!
 :::
