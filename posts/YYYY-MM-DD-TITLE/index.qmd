@@ -3,6 +3,7 @@ title: "TITLE"
 subtitle: "SUBTITLE"
 description: "DESCRIPTION"
 date: YYYY-MM-DD
+date-modified: today
 image: preview-image.jpg
 categories: []
 draft: true
