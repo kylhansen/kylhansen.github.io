@@ -1,3 +1,2 @@
 # re-render posts only when a change to the source file is made ----
 draft: true
-draft-mode: unlinked
