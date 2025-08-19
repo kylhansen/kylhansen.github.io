@@ -7,16 +7,40 @@ date-modified: today
 
 ### Academic Integrity 
 
+
 God called us to co-create with Him as a part of our role in bearing His image. Collaboration---in which multiple people labor side-by-side towards a common goal---is a part of God's good design for community and relationship. Learning communities function best when students have academic integrity. Cheating is primarily an offense against your classmates because it undermines our learning community. Therefore, dishonesty of any kind may result in loss of credit for the work involved and the filing of a report with the Provost's Office. Major or repeated infractions may result in dismissal from the course with a grade of "F". Be familiar with the College's plagiarism policy, found at <https://www.westmont.edu/office-provost/academic-program/academic-integrity-policy>.
 
-In particular, providing someone with an electronic copy of your work is a breach of the academic integrity policy. Do not email, post online, or otherwise disseminate any of the work that you do in this class. If you keep your work on a repository, make sure it is private. You may work with others on the assignments, but make sure that you write or type up your own answers yourself. You are on your honor that the work you hand in represents your own understanding.
+In particular, providing someone with an electronic copy of your work is a breach of the academic integrity policy. Do not email, post online, or otherwise disseminate any of the work that you do in this class. If you keep your work on a repository, make sure it is private. In general, you may work with your peers on assignments, but make sure that you write or type up your own answers yourself. You are on your honor that the work you hand in represents your own understanding.
 
 ### Artificial Intelligence 
 
+#### Institutional Policy
+
+Westmont's [academic integrity policy](https://www.westmont.edu/office-provost/academic-program/academic-integrity-policy) prohibits us from "present[ing] another’s work as our own." Generative AI tools such as ChatGPT attempt to do the work of writing, making, and other creative activities for their users. Therefore, students should **not** substitute AI-generated content or ideas for original academic work. Westmont faculty members design courses and assignments for students' incremental and active learning through methods such as reading, summarizing, discussion, and an authentic generative process in which a student does the work of critical thinking, making meaning, and constructing messages and other creative works. I reserve the right to prohibit or limit AI use in particular assignments or for an entire course. 
+
+#### LLMs Defeat the Purpose of Mathematical Struggle
+
 Math courses will build your character by asking you to persevere through challenging problems. Such character is often built through practice. Any use of LLMs (etc.) that negate this practice will end up robbing you of your education. Moreover, you will naturally perform more poorly in this course as a result. Any unapproved use of LLMs (etc.) will constitute a breach of academic integrity.
 
-## Accommodations and Accessability 
+#### "How did you do your work?" 
+Students are advised to document their process of completing each assignment: e.g., their brainstorming, conversations, research queries, reading notes, writing or other creative expression, and the particular resources and tools used to achieve this work. Since software capabilities and AI integrations are rapidly changing, using even such tools as Grammarly without an instructor’s permission puts a student’s academic integrity at risk. When this use has been permitted, the content generated or modified by AI must be properly attributed (e.g., sharing the AI Archives link to that chat). Upon instructor request, a student should be able to narrate the process of assignment completion from start to finish, which shows how a student is learning within and across assignments.
+
+## Community and Inclusion
+
+### Diversity Matters
+
+Westmont's [Diversity Matters](https://www.westmont.edu/diversity-matters) document outlines how we live out the expectations of the [Community Life Statement](https://www.westmont.edu/student-life-division/community-life-statement) as we strive to love one another as Christ has first loved us, especially as relates to active inclusion and life in community with people who are different from ourselves. In particular, our daily interactions will seek to affirm others as persons created in God’s image as we:
+
+- engage in discussion openly, demonstrating humility toward our own perspectives, and respectfully examining views that are unfamiliar;
+- affirm every person as created in God’s image and reject stereotypical notions that demean, mock, or oversimplify;
+- honor what is distinct in each other’s experience as well as what we share in common;
+- make choices that convey respect for our neighbors’ experiences; and
+- acknowledge the significance of context and its influence on our words and actions.
+
+### Accommodations and Accessability 
+
 Westmont is committed to ensuring equal access to academic courses and college programs. In keeping with this commitment under the Americans with Disabilities Act (ADA)of 1990, Section 504 of the Rehabilitation Act of 1973, and the Americans with Disabilities Amendments Act (ADAAA) of 2008, individuals with diagnoses that impact major life activities are protected from discrimination and are entitled to reasonable accommodations. Students who choose to disclose a disability are encouraged to contact the Accessibility Resource Office (ARO) as early as possible in the semester to discuss potential accommodations for this course. Accommodations are designed to ensure equal access to programs for all students who have a disability that impacts their participation in college activities. Email [aro@westmont.edu](mailto:aro@westmont.edu) or see <https://www.westmont.edu/accessibility-resources> for more information.
+
 
 
 ## Assignments and Assessments
