@@ -1,7 +1,7 @@
 ---
-title: This Website
+title: About
 ---
 
-You wanted to learn about my website? Congratulations! You found it! Here's a prize for you[.](media/images/surprise.jpg)
+You wanted to learn about my website? Congratulations! You found it! [Here's a prize for you.](media/images/surprise.jpg)
 
-This site is intended both as a resource for my students, as well as a living CV and blog for various items related to my professional life. This means that the site will likely change as time goes on. I urge you, please don't get too attached to it. Use the navigation bar above to navigate to the pages of most relevant interest.
+This site is intended both as a resource for my students, as well as a living CV and eventually a blog for various items related to my professional life. This means that the site will likely change as time goes on. I urge you, please don't get too attached to it. Use the navigation bar above to navigate to the pages of most relevant interest.

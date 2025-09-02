@@ -9,15 +9,15 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - text: About My...
+      - teaching/index.qmd
+      - scholarship.qmd
+      - outreach.qmd
+      - about.qmd
+      - text: Other
         menu: 
-          - teaching/index.qmd
-          - scholarship.qmd
-          - outreach.qmd
-          - text: Website
-            href: about.qmd
-      - href: posts.qmd
-        text: Blog
+        - href: posts.qmd
+          text: Blog
+        - href: lunch.qmd
   
   page-footer: 
     center:
