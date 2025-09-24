@@ -1,0 +1,340 @@
+---
+format: 
+    revealjs:
+        navigation-mode: vertical
+title: "$\\LaTeX$ Workshop"
+date: 2025-09-24
+order: 1
+theme: dark
+toc: true
+toc-title: "By the end of this workshop, you will be able to type up mathematical and scientific work which is..."
+toc-depth: 2
+fontsize: 2em
+incremental: true 
+# margin: 0.1
+---
+
+#
+
+##
+
+But first...
+
+## 
+
+### Setting up {.unnumbered toc=false}
+
+[https://tinyurl.com/2025WestmontLaTeX](https://tinyurl.com/2025WestmontLaTeX)
+
+- ```2025-09-24_LaTeX_Workshop.html```
+  - These slides (God willing)
+- ```template.tex```
+  - for those who want to follow along and learn basic/advanced techniques together
+- ```cauchy-schwarz.tex``` and ```cauchy-schwarz-labeled.tex```
+  - files we will use to demonstrate the power of labelling equations dynamically!
+- ```walkthrough.tex```
+  - for those who want to learn the basics at their own pace (self-guided walkthrough with minimal setup).
+
+## 
+
+### Overleaf.com
+
+- download whichever ```.tex``` file from the [Google Drive](https://tinyurl.com/2025WestmontLaTeX) you want to use
+- sign up for [Overleaf.com] 
+- click "New Project"
+  - If the ```.tex``` file were zipped as a ```.zip``` file, you could upload it directly under "Upload Project"
+  - Otherwise:
+    - "Blank Project" (name however you like)
+    - Upload ```.tex``` file to project
+
+## 
+
+### Two pane navigation
+
+- **preview pane** on right
+  - double click on the pdf on the right to jump to the place in the code on the left
+    - Find (and change!) your name
+- **editing pane** on left 
+  - click $\to$ arrow in the middle of the screen to jump from your code to the corresponding place in the pdf on the right
+    - Find (and change!) the date
+
+# ...symbolically effective
+
+## math mode 
+  
+### in-line mathematics
+
+Math symbols and expressions are always typed in "math mode".
+
+::: {#exm-math-mode-inline}
+To render $f(x) = x^2$, type 
+
+- ```$f(x) = x^2$```, or 
+- ```\(f(x) = x^2\)```
+:::
+
+
+::: {.callout-tip}
+1. Use curly brackets ```{ }``` to keep expressions together. e.g. 
+   - $f(x) = x^12$ is typed as ```$f(x) = x^12$```
+   - $f(x) = x^{12}$ is typed as ```$f(x) = x^{12}$```
+2. use ```\displaystyle``` to resize symbols appropriately
+    - $\int x^2dx = \frac{1}{3}x^3$ is ```$\int x^2dx = \frac{1}{3}x^3$```
+    - $\displaystyle \int x^2dx = \frac{1}{3}x^3$ is ```$\displaystyle \int x^2dx = \frac{1}{3}x^3$```
+:::
+
+## 
+
+### centered equations
+
+- they are "large" (either vertically or horizontally) 
+- you want to draw attention to an expression, or
+- you want to label an equation (see later)
+
+::: {#exm-math-mode-inline}
+$$F(x) = \int_0^{x}F'(t) dt$$
+can be rendered by typing...
+
+- ```$$F(x) = \int_0^{x}F'(t) dt$$```, or 
+- ```\[F(x) = \int_0^{x}F'(t) dt\]```, or 
+- ```\begin{equation*} F(x) = \int_0^{x}F'(t) dt \end{equation*}```
+:::
+  
+## 
+
+### aligned environments
+
+Sometimes a string of equalities is too long to fit on a single line, or can be made more clear by splitting it across multiple lines with justifications.
+Consider the following proof for instance that $1 > 0$:
+
+::: {.proof}
+Start by letting $x > 0$ be arbitrary. Then $\frac{1}{x} > 0$ so that
+\begin{align*}
+  1 & = x \cdot \frac{1}{x} \\
+    & > 0 \cdot \frac{1}{x} \tag{since $x > 0$} \\
+    & > 0 \cdot 0 \tag{since $\frac{1}{x} > 0$} \\
+    & = 0.
+\end{align*}
+:::
+
+## 
+
+### aligned environments cont.
+
+```
+\begin{align*}
+  1 & = x \cdot \frac{1}{x} \\
+    & > 0 \cdot \frac{1}{x} \tag{since $x > 0$} \\
+    & > 0 \cdot 0 \tag{since $\frac{1}{x} > 0$} \\
+    & = 0. 
+\end{align*}
+```
+
+- the ```&``` goes directly before the symbol to be aligned
+- the ```\\``` indicates we are jumping to a new line
+- the ```\tag{<words>}``` adds a text bubble justification to the side
+- the **code itself** need not be indented---but it sure does look nicer when it is (and is soooo much easier to fix)
+
+## 
+
+### labels and dynamic references
+
+- on-screen demo
+- the gist of it
+  - type ```\begin{equation}``` and ```end{equation}``` (**without** the ```*```) 
+  - this adds a little number to your equation
+  - similar for ```align``` environments
+- label an equation with ```\begin{equation} \label{eq:<name>}``` and ```end{equation}```
+  - refer to a labeled **equation** using ```\eqref{eq:<name>}``` 
+  - **only** for equations---we will see other methods of labeling etc. later
+
+## 
+
+### clickable, colorful references
+
+> `\usepackage{hyperref}`
+> 
+> `\hypersetup{`
+>
+> >`colorlinks=true,`
+> >
+> > `linkcolor=blue,`
+> >
+> > `<other options>`
+> 
+> `}`
+
+
+
+## custom shortcuts
+
+```\newcommand{\THE_NEW_NAME}{the instructions}```
+
+::: {#exm-ZZ}
+I type $\mathbb{Z}$ a whole lot. It would be nice not to have to type ```\mathbb{Z}``` every time I write that symbol. 
+
+- ```\newcommand{\ZZ}{\mathbb{Z}}```
+  - Use: ```$\ZZ$``` renders $\mathbb{Z}$
+- make sure you have the right packages installed!
+:::
+
+##
+
+### with arguments
+
+```\newcommand{\THE_NEW_NAME}[n]{command #1 #2 ... #n}```
+
+::: {#exm-ZZ_n}
+I type $\mathbb{Z}^{*}_{n}$ a whole lot. It would be nice not to have to type ```\mathbb{Z}^{*}_{n}``` every time I write that symbol. 
+
+- ```\newcommand{\Zmodn}[1]{\mathbb{Z}_{#1}}```
+  - Use: ```$\Zmodn{7}$``` renders $\mathbb{Z}^{*}_{7}$
+:::
+
+
+## adding images
+
+```\includegraphics{monk.jpg}```
+
+- We'll see later how to add captions to figures.
+- to specify a width
+  - `\includegraphics[width=<width>]{monk.jpg}`
+    - `<width>` can be various things. I like to use `<%>\linewidth`
+    - for instance, `\includegraphics[width=0.5\linewidth]{monk.jpg}` 
+- similar for height
+
+# ...well-organized
+
+## automatic numbering
+
+In a longer document, it's valuable to have theorems/problems numbered automatically
+
+### ```\newtheorem{theorem}{Theorem}```
+
+  - theorems/definitions/etc.
+    - `\usepackage{amsthm}`
+    - `\newtheorem{theorem}{Theorem}`
+      - the first `theorem` will be the name of the environment
+      - the second `Theorem` is the actual word that gets printed
+    - examples (on screen)
+      - renumbered: `\setcounter{theorem}{n-1}`
+      - named: `\begin{theorem}[NAME]...\end{theorem}`
+
+## 
+
+### some subtleties
+
+- definitions, theorems, and remarks all have somewhat standard "styles"
+  
+  > `\theoremstyle{definition}`
+  > 
+  > `\newtheorem{definition}{Definition}`
+
+- automatically, the document keeps adding $1$ to each theorem, and $1$ to each definition separately. This is **fine**, but can be **confusing** (will Theorem 4 come before or after Definition 7?)
+  - Numbering can be done using just the `amsthm` package. You can 
+    - give numbers that indicate what section it's in
+    - give a single counter that counts up for all environments 
+      - Now Theorem 6 will be followed by **something** 7.
+      - But Theorem 6 likely isn't the "6th theorem"
+  - `thmtools` also useful
+
+## sections, labels, and table of contents
+
+### sections and subsections
+
+- `\part{Part Name}` 
+- `\chapter{chapter Name}` (only for certain document classes)
+- `\section{Section Name}`
+- `\subsection{Subsection Name}`
+- Add `*` before `{...}` for an unnumbered part/section/etc.
+
+##
+
+### labels
+
+- Add `\label{LABEL-NAME}` to 
+  - equations
+  - theorems/definitions
+  - section headers 
+  - use `\ref{LABEL-NAME}` to link automatically (and dynamically!) with correct number of the object linked to
+  - bonus!
+    - `\usepackage[nameinlink]{cleveref}`
+    - `\Cref{LABEL-NAME}` will then even add in the name (e.g. "Theorem") as well as the number of labelled object
+
+
+## automatic citations
+
+### gathering sources
+
+- create document `sources.bib`
+- Google scholar
+  - "A Deep Learning Approach to Diabetic Blood Glucose Prediction"
+  - Click `Cite` -> BibTeX
+  - copy-paste to `sources.bib`
+  - the "key" is the first phrase before after the opening `{` sign.
+
+##
+
+### adding citations: 
+
+- adding a bibliography:
+  - `\bibliographystyle{plain}` (multiple options—but one is required!)
+  - `\bibliography{sources.bib}` (what file to read in)
+- To cite in-line:
+  - `\cite{<key>}`
+- To add all non-cited works: 
+  - `\nocite{*}` (adds all unreferences bib items to the bibliography)
+
+
+
+# ...aesthetically pleasing
+
+## headers/footers
+
+### `\usepackage{fancyhdr}`
+
+Change contents of left/center/right head/foot:
+
+> `\pagestyle{fancy}`
+>
+> `\lhead{Left Header Stuff}`
+
+
+::: {.callout-warning}
+1. By default, the first page is **always** "plain", and won't reflect the changes you make to headers etc. This can be appealing or not. To change it, add `\thispagestyle{fancy}` to the affected page.
+2. The very first line of your code may have `twosided` as an option turned on. Unfortunately (or perhaps fortunately) this doesn't affect what is "left" or "right" on odd/even numbered pages; there are ways to add "inner" header and "outer" header marks but that's more than we need right now.
+:::
+
+## margins
+
+### units of measure
+
+- pt, em, cm, in
+
+### `\usepackage{geometry}`
+
+- Lots of options. For example, changing margins:
+
+> `\geometry{`
+>
+> > `left = 2cm,`
+> >
+> > `right = 2cm,`
+> >
+> > `top = 2cm,`
+> >
+> > `bottom = 3cm`
+> 
+> `}`
+>
+
+## tikz and diagrams
+
+- great for drawing precise diagrams!
+- won't get here today, but if you're interested, look up tikz and tikzcd. 
+
+# 
+
+### **Thank you! Please fill out the exit survey!!!**
+
+![](survey_qr_code.png){fig-align="center" width="15cm"}

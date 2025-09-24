@@ -4,6 +4,10 @@ title: "Outreach & Service"
 
 ## Outreach
 
+### Workshops et. al.
+- $\LaTeX$ Workshop
+  - [2025-09-24](workshops/2025-09-24_LaTeX_Workshop.qmd)
+
 ### UCSB, Directed Reading Program ([DRP](https://www.ucsbdrp.org/))
 
 - 2025: Percolation Theory

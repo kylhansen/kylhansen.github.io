@@ -123,14 +123,14 @@
     "href": "outreach.html",
     "title": "Outreach & Service",
     "section": "",
-    "text": "2025: Percolation Theory\n2024: Quantum Computing\n2023: Tiling Spaces"
+    "text": "\\(\\LaTeX\\) Workshop\n\n2025-09-24\n\n\n\n\n\n\n2025: Percolation Theory\n2024: Quantum Computing\n2023: Tiling Spaces"
   },
   {
     "objectID": "outreach.html#outreach",
     "href": "outreach.html#outreach",
     "title": "Outreach & Service",
     "section": "",
-    "text": "2025: Percolation Theory\n2024: Quantum Computing\n2023: Tiling Spaces"
+    "text": "\\(\\LaTeX\\) Workshop\n\n2025-09-24\n\n\n\n\n\n\n2025: Percolation Theory\n2024: Quantum Computing\n2023: Tiling Spaces"
   },
   {
     "objectID": "outreach.html#institutional-service",
@@ -173,5 +173,159 @@
     "title": "Career",
     "section": "Hobbies & Interests",
     "text": "Hobbies & Interests\nI enjoy some of the following (not necessarily in this order):\n\nrunning\nbiking\nswimming\nbaking\nreading\n\nI am somewhat interested in philosophy and theory of the mind/consciousness, especially where connections to mathematics may be made."
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-1",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-1",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "But first…"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-2",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-2",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "Setting up\nhttps://tinyurl.com/2025WestmontLaTeX\n\n2025-09-24_LaTeX_Workshop.html\n\nThese slides (God willing)\n\ntemplate.tex\n\nfor those who want to follow along and learn basic/advanced techniques together\n\ncauchy-schwarz.tex and cauchy-schwarz-labeled.tex\n\nfiles we will use to demonstrate the power of labelling equations dynamically!\n\nwalkthrough.tex\n\nfor those who want to learn the basics at their own pace (self-guided walkthrough with minimal setup)."
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-3",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-3",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "Overleaf.com\n\ndownload whichever .tex file from the Google Drive you want to use\nsign up for Overleaf.com\nclick “New Project”\n\nIf the .tex file were zipped as a .zip file, you could upload it directly under “Upload Project”\nOtherwise:\n\n“Blank Project” (name however you like)\nUpload .tex file to project"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-4",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-4",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "Two pane navigation\n\npreview pane on right\n\ndouble click on the pdf on the right to jump to the place in the code on the left\n\nFind (and change!) your name\n\n\nediting pane on left\n\nclick \\(\\to\\) arrow in the middle of the screen to jump from your code to the corresponding place in the pdf on the right\n\nFind (and change!) the date"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#math-mode",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#math-mode",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "math mode",
+    "text": "math mode\nin-line mathematics\nMath symbols and expressions are always typed in “math mode”.\n\nExample 1 To render \\(f(x) = x^2\\), type\n\n$f(x) = x^2$, or\n\\(f(x) = x^2\\)\n\n\n\n\n\n\n\n\nTip\n\n\n\nUse curly brackets { } to keep expressions together. e.g. \n\n\\(f(x) = x^12\\) is typed as $f(x) = x^12$\n\\(f(x) = x^{12}\\) is typed as $f(x) = x^{12}$\n\nuse \\displaystyle to resize symbols appropriately\n\n\\(\\int x^2dx = \\frac{1}{3}x^3\\) is $\\int x^2dx = \\frac{1}{3}x^3$\n\\(\\displaystyle \\int x^2dx = \\frac{1}{3}x^3\\) is $\\displaystyle \\int x^2dx = \\frac{1}{3}x^3$"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-5",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-5",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "centered equations\n\nthey are “large” (either vertically or horizontally)\nyou want to draw attention to an expression, or\nyou want to label an equation (see later)\n\n\nExample 2 \\[F(x) = \\int_0^{x}F'(t) dt\\] can be rendered by typing…\n\n$$F(x) = \\int_0^{x}F'(t) dt$$, or\n\\[F(x) = \\int_0^{x}F'(t) dt\\], or\n\\begin{equation*} F(x) = \\int_0^{x}F'(t) dt \\end{equation*}"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-6",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-6",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "aligned environments\nSometimes a string of equalities is too long to fit on a single line, or can be made more clear by splitting it across multiple lines with justifications. Consider the following proof for instance that \\(1 &gt; 0\\):\n\nProof. Start by letting \\(x &gt; 0\\) be arbitrary. Then \\(\\frac{1}{x} &gt; 0\\) so that \\[\\begin{align*}\n  1 & = x \\cdot \\frac{1}{x} \\\\\n    & &gt; 0 \\cdot \\frac{1}{x} \\tag{since $x &gt; 0$} \\\\\n    & &gt; 0 \\cdot 0 \\tag{since $\\frac{1}{x} &gt; 0$} \\\\\n    & = 0.\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-7",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-7",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "aligned environments cont.\n\\begin{align*}\n  1 & = x \\cdot \\frac{1}{x} \\\\\n    & &gt; 0 \\cdot \\frac{1}{x} \\tag{since $x &gt; 0$} \\\\\n    & &gt; 0 \\cdot 0 \\tag{since $\\frac{1}{x} &gt; 0$} \\\\\n    & = 0. \n\\end{align*}\n\nthe & goes directly before the symbol to be aligned\nthe \\\\ indicates we are jumping to a new line\nthe \\tag{&lt;words&gt;} adds a text bubble justification to the side\nthe code itself need not be indented—but it sure does look nicer when it is (and is soooo much easier to fix)"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-8",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-8",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "labels and dynamic references\n\non-screen demo\nthe gist of it\n\ntype \\begin{equation} and end{equation} (without the *)\nthis adds a little number to your equation\nsimilar for align environments\n\nlabel an equation with \\begin{equation} \\label{eq:&lt;name&gt;} and end{equation}\n\nrefer to a labeled equation using \\eqref{eq:&lt;name&gt;}\nonly for equations—we will see other methods of labeling etc. later"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-9",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-9",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "clickable, colorful references\n\n\\usepackage{hyperref}\n\\hypersetup{\n\ncolorlinks=true,\nlinkcolor=blue,\n&lt;other options&gt;\n\n}"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#custom-shortcuts",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#custom-shortcuts",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "custom shortcuts",
+    "text": "custom shortcuts\n\\newcommand{\\THE_NEW_NAME}{the instructions}\n\nExample 3 I type \\(\\mathbb{Z}\\) a whole lot. It would be nice not to have to type \\mathbb{Z} every time I write that symbol.\n\n\\newcommand{\\ZZ}{\\mathbb{Z}}\n\nUse: $\\ZZ$ renders \\(\\mathbb{Z}\\)\n\nmake sure you have the right packages installed!"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-10",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-10",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "with arguments\n\\newcommand{\\THE_NEW_NAME}[n]{command #1 #2 ... #n}\n\nExample 4 I type \\(\\mathbb{Z}^{*}_{n}\\) a whole lot. It would be nice not to have to type \\mathbb{Z}^{*}_{n} every time I write that symbol.\n\n\\newcommand{\\Zmodn}[1]{\\mathbb{Z}_{#1}}\n\nUse: $\\Zmodn{7}$ renders \\(\\mathbb{Z}^{*}_{7}\\)"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#adding-images",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#adding-images",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "adding images",
+    "text": "adding images\n\\includegraphics{monk.jpg}\n\nWe’ll see later how to add captions to figures.\nto specify a width\n\n\\includegraphics[width=&lt;width&gt;]{monk.jpg}\n\n&lt;width&gt; can be various things. I like to use &lt;%&gt;\\linewidth\nfor instance, \\includegraphics[width=0.5\\linewidth]{monk.jpg}\n\n\nsimilar for height"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#automatic-numbering",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#automatic-numbering",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "automatic numbering",
+    "text": "automatic numbering\nIn a longer document, it’s valuable to have theorems/problems numbered automatically\n\\newtheorem{theorem}{Theorem}\n\ntheorems/definitions/etc.\n\n\\usepackage{amsthm}\n\\newtheorem{theorem}{Theorem}\n\nthe first theorem will be the name of the environment\nthe second Theorem is the actual word that gets printed\n\nexamples (on screen)\n\nrenumbered: \\setcounter{theorem}{n-1}\nnamed: \\begin{theorem}[NAME]...\\end{theorem}"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-11",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-11",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "some subtleties\n\ndefinitions, theorems, and remarks all have somewhat standard “styles”\n\n\\theoremstyle{definition}\n\\newtheorem{definition}{Definition}\n\nautomatically, the document keeps adding \\(1\\) to each theorem, and \\(1\\) to each definition separately. This is fine, but can be confusing (will Theorem 4 come before or after Definition 7?)\n\nNumbering can be done using just the amsthm package. You can\n\ngive numbers that indicate what section it’s in\ngive a single counter that counts up for all environments\n\nNow Theorem 6 will be followed by something 7.\nBut Theorem 6 likely isn’t the “6th theorem”\n\n\nthmtools also useful"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#sections-labels-and-table-of-contents",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#sections-labels-and-table-of-contents",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "sections, labels, and table of contents",
+    "text": "sections, labels, and table of contents\nsections and subsections\n\n\\part{Part Name}\n\\chapter{chapter Name} (only for certain document classes)\n\\section{Section Name}\n\\subsection{Subsection Name}\nAdd * before {...} for an unnumbered part/section/etc."
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-12",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-12",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "labels\n\nAdd \\label{LABEL-NAME} to\n\nequations\ntheorems/definitions\nsection headers\nuse \\ref{LABEL-NAME} to link automatically (and dynamically!) with correct number of the object linked to\nbonus!\n\n\\usepackage[nameinlink]{cleveref}\n\\Cref{LABEL-NAME} will then even add in the name (e.g. “Theorem”) as well as the number of labelled object"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#automatic-citations",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#automatic-citations",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "automatic citations",
+    "text": "automatic citations\ngathering sources\n\ncreate document sources.bib\nGoogle scholar\n\n“A Deep Learning Approach to Diabetic Blood Glucose Prediction”\nClick Cite -&gt; BibTeX\ncopy-paste to sources.bib\nthe “key” is the first phrase before after the opening { sign."
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#section-13",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#section-13",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "",
+    "text": "adding citations:\n\nadding a bibliography:\n\n\\bibliographystyle{plain} (multiple options—but one is required!)\n\\bibliography{sources.bib} (what file to read in)\n\nTo cite in-line:\n\n\\cite{&lt;key&gt;}\n\nTo add all non-cited works:\n\n\\nocite{*} (adds all unreferences bib items to the bibliography)"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#headersfooters",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#headersfooters",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "headers/footers",
+    "text": "headers/footers\n\\usepackage{fancyhdr}\nChange contents of left/center/right head/foot:\n\n\\pagestyle{fancy}\n\\lhead{Left Header Stuff}\n\n\n\n\n\n\n\nWarning\n\n\n\nBy default, the first page is always “plain”, and won’t reflect the changes you make to headers etc. This can be appealing or not. To change it, add \\thispagestyle{fancy} to the affected page.\nThe very first line of your code may have twosided as an option turned on. Unfortunately (or perhaps fortunately) this doesn’t affect what is “left” or “right” on odd/even numbered pages; there are ways to add “inner” header and “outer” header marks but that’s more than we need right now."
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#margins",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#margins",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "margins",
+    "text": "margins\nunits of measure\n\npt, em, cm, in\n\n\\usepackage{geometry}\n\nLots of options. For example, changing margins:\n\n\n\\geometry{\n\nleft = 2cm,\nright = 2cm,\ntop = 2cm,\nbottom = 3cm\n\n}"
+  },
+  {
+    "objectID": "workshops/2025-09-24_LaTeX_Workshop.html#tikz-and-diagrams",
+    "href": "workshops/2025-09-24_LaTeX_Workshop.html#tikz-and-diagrams",
+    "title": "\\(\\LaTeX\\) Workshop",
+    "section": "tikz and diagrams",
+    "text": "tikz and diagrams\n\ngreat for drawing precise diagrams!\nwon’t get here today, but if you’re interested, look up tikz and tikzcd."
   }
 ]
