@@ -16,7 +16,7 @@ description: "[arXiv](https://arxiv.org/a/0000-0002-8239-8782.html) • [Google 
 
 ### Feral (i.e., pre-prints & arXiv)
 
-- Volumes of Nullhomotopies in Nilpotent Spaces (journal paper, 2025)
+- Volumes of Nullhomotopies in Nilpotent Spaces (journal version, 2025)
   - [arXiv](https://arxiv.org/abs/2510.00159)
   - [PDF](media/papers/2025-09-30%2012-21-22%20Volumes-of-Nullhomotopies.pdf)
 - Simple Tilings of Nilpotent Lie Groups (2024)
