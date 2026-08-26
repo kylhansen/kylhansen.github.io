@@ -1,26 +1,26 @@
 ---
-title: "Outreach & Service"
+title: "Service & Outreach"
 ---
 
-## Outreach
-
-### Workshops et. al.
-- $\LaTeX$ Workshop
-  - [2025-09-24](workshops/2025-09-24_LaTeX_Workshop.qmd)
-
-### UCSB, Directed Reading Program ([DRP](https://www.ucsbdrp.org/))
-
-- 2025: Percolation Theory
-- 2024: Quantum Computing
-- 2023: Tiling Spaces
-
 ## Institutional Service
-Coming soon!
+- Student Life Committee (2026-Present)
 
-## Volunteer
-I have predominantly served at [Christ Presbyterian Church Santa Barbara](https://cpcsb.org/) in a variety of ways, including:
+## Math Circles
+Coming Fall 2026!
+
+## $\LaTeX$ Workshop
+
+- [2025-09-24](workshops/2025-09-24_LaTeX_Workshop.qmd)
+
+## Christ Presbyterian Church Santa Barbara ([CPCSB](https://cpcsb.org/))
 
 - Youth Ministry Volunteer
 - Security Team
 - Community Group Discussion Leader
 
+
+## UCSB, Directed Reading Program ([DRP](https://www.ucsbdrp.org/))
+
+- 2025: Percolation Theory
+- 2024: Quantum Computing
+- 2023: Tiling Spaces

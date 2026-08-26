@@ -4,14 +4,14 @@
     "href": "scholarship.html",
     "title": "Scholarship",
     "section": "",
-    "text": "Volumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)\n\nPDF\nProQuest Link Coming soon!\n\nClues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)\n\nIEEE\n\n\n\n\n\n\nVolumes of Nullhomotopies in Nilpotent Spaces (journal version, 2025)\n\narXiv\nPDF\n\nSimple Tilings of Nilpotent Lie Groups (2024)\n\narXiv\nPDF"
+    "text": "If you want to study the complexity of a topological space, you might study the algebraic invariants of this space. Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. How does this algebraic topological complexity translate into geometric complexity? This broad question motivates the field of so-called “quantitative topology”.\nFor example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)? My advisor Fedya Manin has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.\nI have also studied elliptic manifolds, where I asked “Given a nilpotent Lie group \\(G\\), what algebraic information is necessary/sufficient to guarantee that a closed manifold \\(M\\) is \\(G\\)-elliptic?” In some sense, this asks which manifolds \\(M\\) can be efficiently wrapped using the group \\(G\\) as your wrapping paper. Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.\n\n\n\nI also study tiling spaces, where I am interested in extending some existing theory to the relevant nilpotent setting. For example, I extend work about the topology of Euclidean tiling spaces to tiling spaces of certain nilpotent Lie groups."
   },
   {
     "objectID": "scholarship.html#papers",
     "href": "scholarship.html#papers",
     "title": "Scholarship",
-    "section": "",
-    "text": "Volumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)\n\nPDF\nProQuest Link Coming soon!\n\nClues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)\n\nIEEE\n\n\n\n\n\n\nVolumes of Nullhomotopies in Nilpotent Spaces (journal version, 2025)\n\narXiv\nPDF\n\nSimple Tilings of Nilpotent Lie Groups (2024)\n\narXiv\nPDF"
+    "section": "Papers",
+    "text": "Papers\n\nDomesticated (i.e., peer-reviewed)\n\nVolumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)\n\nPDF\nProQuest\n\nClues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)\n\nIEEE\n\n\n\n\nFeral (i.e., pre-prints & arXiv)\n\nVolumes of Nullhomotopies in Nilpotent Spaces (2025)\n\narXiv\nPDF\n\nSimple Tilings of Nilpotent Lie Groups (2024)\n\narXiv\nPDF"
   },
   {
     "objectID": "scholarship.html#presentations",
@@ -46,7 +46,7 @@
     "href": "teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "Some of my class policies can be found here. Some of my (less than helpful) common advice for students be found here.\nBelow is a list of courses I am teaching/have taught in the past.\n\n\n\n\n\nYear\nTerm\nInstitution\nID\nName\nRole\nNotes\n\n\n\n\n2025\nFall\nWestmont College\nMA-110\nAbstract Algebra\nInstructor\n\n\n\n2025\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\n\n\n\n2025\nSpring\nUCSB\nN/A\nN/A\nMath Lab Coordinator\n\n\n\n2025\nWinter\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2024\nFall\nUCSB\nMA-102A\nModern Euclidean and Non-Euclidean Geometry\nGrader\n\n\n\n2024\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nWinter\nUCSB\nMA-108B\nLinear Algebra\nTA\n\n\n\n2023\nFall\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2023\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nCS-040\nFoundations of Computer Science\nInstructor\nAdjunct\n\n\n2022\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2022\nFall\nUCSB\nN/A\nTA Training\nLead TA\n\n\n\n2022\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nSummer\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nWinter\nUCSB\nMA-108A\nLinear Algebra\nTA\nCOVID\n\n\n2021\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2021\nFall\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2021\nSummer\nUCSB\nMA-117\nMethods of Analysis\nTA\nCOVID\n\n\n2021\nSpring\nUCSB\nMA-4B\nDifferential Equations\nTA\nCOVID\n\n\n2021\nWinter\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\nCOVID\n\n\n2020\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nSpring\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nWinter\nUCSB\nMA-34A\nCalculus for Social Sciences I\nTA\n\n\n\n2019\nFall\nUCSB\nMA-3A\nCalculus I\nTA"
+    "text": "Below is a list of courses I am teaching/have taught in the past.\n\n\n\n\n\nYear\nTerm\nInstitution\nID\nName\nRole\nNotes\n\n\n\n\n2026\nFall\nWestmont College\nMA-009\nCalculus I\nInstructor\n\n\n\n2026\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\n\n\n\n2026\nSpring\nWestmont College\nMA-009\nCalculus I\nInstructor\n\n\n\n2026\nSpring\nWestmont College\nMA-010\nCalculus II\nInstructor\n\n\n\n2026\nSpring\nWestmont College\nMA-180\nSenior Seminar\nInstructor\n\n\n\n2025\nFall\nWestmont College\nMA-110\nAbstract Algebra\nInstructor\n\n\n\n2025\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\n\n\n\n2025\nSpring\nUCSB\nN/A\nN/A\nMath Lab Coordinator\n\n\n\n2025\nWinter\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2024\nFall\nUCSB\nMA-102A\nModern Euclidean and Non-Euclidean Geometry\nGrader\n\n\n\n2024\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nWinter\nUCSB\nMA-108B\nLinear Algebra\nTA\n\n\n\n2023\nFall\nUCSB\nMA-108A\nLinear Algebra\nTA\n\n\n\n2023\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2023\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\n\n\n\n2023\nSpring\nUCSB\nCS-040\nFoundations of Computer Science\nInstructor\nAdjunct\n\n\n2022\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2022\nFall\nUCSB\nN/A\nTA Training\nLead TA\n\n\n\n2022\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nSummer\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\n\n\n\n2022\nWinter\nUCSB\nMA-108A\nLinear Algebra\nTA\nCOVID\n\n\n2021\nFall\nWestmont College\nCS/MA-015\nDiscrete Mathematics\nInstructor\nAdjunct\n\n\n2021\nFall\nUCSB\nMA-117\nMethods of Analysis\nTA\n\n\n\n2021\nSummer\nUCSB\nMA-117\nMethods of Analysis\nTA\nCOVID\n\n\n2021\nSpring\nUCSB\nMA-4B\nDifferential Equations\nTA\nCOVID\n\n\n2021\nWinter\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nFall\nUCSB\nMA-4A\nLinear Algebra with Applications\nTA\nCOVID\n\n\n2020\nSummer\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nSpring\nUCSB\nMA-8\nTransition to Higher Mathematics\nTA\nCOVID\n\n\n2020\nWinter\nUCSB\nMA-34A\nCalculus for Social Sciences I\nTA\n\n\n\n2019\nFall\nUCSB\nMA-3A\nCalculus I\nTA"
   },
   {
     "objectID": "about.html",
@@ -121,23 +121,23 @@
   {
     "objectID": "outreach.html",
     "href": "outreach.html",
-    "title": "Outreach & Service",
+    "title": "Service & Outreach",
     "section": "",
-    "text": "\\(\\LaTeX\\) Workshop\n\n2025-09-24\n\n\n\n\n\n\n2025: Percolation Theory\n2024: Quantum Computing\n2023: Tiling Spaces"
+    "text": "Student Life Committee (2026-Present)"
   },
   {
     "objectID": "outreach.html#outreach",
     "href": "outreach.html#outreach",
     "title": "Outreach & Service",
     "section": "",
-    "text": "\\(\\LaTeX\\) Workshop\n\n2025-09-24\n\n\n\n\n\n\n2025: Percolation Theory\n2024: Quantum Computing\n2023: Tiling Spaces"
+    "text": "Coming Fall 2026!\n\n\n\n\n\\(\\LaTeX\\) Workshop\n\n2025-09-24\n\n\n\n\n\n\n2025: Percolation Theory\n2024: Quantum Computing\n2023: Tiling Spaces"
   },
   {
     "objectID": "outreach.html#institutional-service",
     "href": "outreach.html#institutional-service",
-    "title": "Outreach & Service",
-    "section": "Institutional Service",
-    "text": "Institutional Service\nComing soon!"
+    "title": "Service & Outreach",
+    "section": "",
+    "text": "Student Life Committee (2026-Present)"
   },
   {
     "objectID": "outreach.html#volunteer",
@@ -329,6 +329,139 @@
     "text": "tikz and diagrams\n\ngreat for drawing precise diagrams!\nwon’t get here today, but if you’re interested, look up tikz and tikzcd."
   },
   {
+<<<<<<< HEAD
+    "objectID": "outreach.html#ucsb-directed-reading-program-drp",
+    "href": "outreach.html#ucsb-directed-reading-program-drp",
+    "title": "Service & Outreach",
+    "section": "UCSB, Directed Reading Program (DRP)",
+    "text": "UCSB, Directed Reading Program (DRP)\n\n2025: Percolation Theory\n2024: Quantum Computing\n2023: Tiling Spaces"
+  },
+  {
+    "objectID": "outreach.html#math-circles",
+    "href": "outreach.html#math-circles",
+    "title": "Service & Outreach",
+    "section": "Math Circles",
+    "text": "Math Circles\nComing Fall 2026!"
+  },
+  {
+    "objectID": "outreach.html#latex-workshop",
+    "href": "outreach.html#latex-workshop",
+    "title": "Service & Outreach",
+    "section": "\\(\\LaTeX\\) Workshop",
+    "text": "\\(\\LaTeX\\) Workshop\n\n2025-09-24"
+  },
+  {
+    "objectID": "outreach.html#christ-presbyterian-church-santa-barbara",
+    "href": "outreach.html#christ-presbyterian-church-santa-barbara",
+    "title": "Mentorship",
+    "section": "Christ Presbyterian Church Santa Barbara",
+    "text": "Christ Presbyterian Church Santa Barbara\n\nYouth Ministry Volunteer\nSecurity Team\nCommunity Group Discussion Leader"
+  },
+  {
+    "objectID": "outreach.html#bici-centro",
+    "href": "outreach.html#bici-centro",
+    "title": "Service & Outreach",
+    "section": "Bici Centro",
+    "text": "Bici Centro\nComing Summer 2026!"
+  },
+  {
+    "objectID": "outreach.html#christ-presbyterian-church-santa-barbara-cpcsb",
+    "href": "outreach.html#christ-presbyterian-church-santa-barbara-cpcsb",
+    "title": "Service & Outreach",
+    "section": "Christ Presbyterian Church Santa Barbara (CPCSB)",
+    "text": "Christ Presbyterian Church Santa Barbara (CPCSB)\n\nYouth Ministry Volunteer\nSecurity Team\nCommunity Group Discussion Leader"
+  },
+  {
+    "objectID": "scholarship.html#research-interests",
+    "href": "scholarship.html#research-interests",
+    "title": "Scholarship",
+    "section": "",
+    "text": "If you want to study the complexity of a topological space, you might study the algebraic invariants of this space. Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. How does this algebraic topological complexity translate into geometric complexity? This broad question motivates the field of so-called “quantitative topology”.\nFor example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)? My advisor Fedya Manin has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.\nI have also studied elliptic manifolds, where I asked “Given a nilpotent Lie group \\(G\\), what algebraic information is necessary/sufficient to guarantee that a closed manifold \\(M\\) is \\(G\\)-elliptic?” In some sense, this asks which manifolds \\(M\\) can be efficiently wrapped using the group \\(G\\) as your wrapping paper. Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.\n\n\n\nI also study tiling spaces, where I am interested in extending some existing theory to the relevant nilpotent setting. For example, I extend work about the topology of Euclidean tiling spaces to tiling spaces of certain nilpotent Lie groups."
+  },
+  {
+    "objectID": "scholarship/research.html",
+    "href": "scholarship/research.html",
+    "title": "Research Interests",
+    "section": "",
+    "text": "If you want to study the complexity of a topological space, you might study the algebraic invariants of this space. Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. How does this algebraic topological complexity translate into geometric complexity? This broad question motivates the field of so-called “quantitative topology”.\nFor example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)? My advisor Fedya Manin has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.\nI have also studied elliptic manifolds, where I asked “Given a nilpotent Lie group \\(G\\), what algebraic information is necessary/sufficient to guarantee that a closed manifold \\(M\\) is \\(G\\)-elliptic?” In some sense, this asks which manifolds \\(M\\) can be efficiently wrapped using the group \\(G\\) as your wrapping paper. Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus."
+  },
+  {
+    "objectID": "scholarship/research.html#quantitative-topology",
+    "href": "scholarship/research.html#quantitative-topology",
+    "title": "Research Interests",
+    "section": "",
+    "text": "If you want to study the complexity of a topological space, you might study the algebraic invariants of this space. Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. How does this algebraic topological complexity translate into geometric complexity? This broad question motivates the field of so-called “quantitative topology”.\nFor example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)? My advisor Fedya Manin has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.\nI have also studied elliptic manifolds, where I asked “Given a nilpotent Lie group \\(G\\), what algebraic information is necessary/sufficient to guarantee that a closed manifold \\(M\\) is \\(G\\)-elliptic?” In some sense, this asks which manifolds \\(M\\) can be efficiently wrapped using the group \\(G\\) as your wrapping paper. Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus."
+  },
+  {
+    "objectID": "scholarship/research.html#tiling-spaces",
+    "href": "scholarship/research.html#tiling-spaces",
+    "title": "Research Interests",
+    "section": "Tiling Spaces",
+    "text": "Tiling Spaces\nI also study tiling spaces, where I am interested in extending some existing theory to the relevant nilpotent setting. For example, I extend work about the topology of Euclidean tiling spaces to tiling spaces of certain nilpotent Lie groups."
+  },
+  {
+    "objectID": "scholarship/papers.html",
+    "href": "scholarship/papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Volumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)\n\nPDF\nProQuest\n\nClues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)\n\nIEEE\n\n\n\n\n\n\nVolumes of Nullhomotopies in Nilpotent Spaces (2025)\n\narXiv\nPDF\n\nSimple Tilings of Nilpotent Lie Groups (2024)\n\narXiv\nPDF"
+  },
+  {
+    "objectID": "scholarship/papers.html#research-interests",
+    "href": "scholarship/papers.html#research-interests",
+    "title": "Scholarship",
+    "section": "",
+    "text": "If you want to study the complexity of a topological space, you might study the algebraic invariants of this space. Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. How does this algebraic topological complexity translate into geometric complexity? This broad question motivates the field of so-called “quantitative topology”.\nFor example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)? My advisor Fedya Manin has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.\nI have also studied elliptic manifolds, where I asked “Given a nilpotent Lie group \\(G\\), what algebraic information is necessary/sufficient to guarantee that a closed manifold \\(M\\) is \\(G\\)-elliptic?” In some sense, this asks which manifolds \\(M\\) can be efficiently wrapped using the group \\(G\\) as your wrapping paper. Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.\n\n\n\nI also study tiling spaces, where I am interested in extending some existing theory to the relevant nilpotent setting. For example, I extend work about the topology of Euclidean tiling spaces to tiling spaces of certain nilpotent Lie groups."
+  },
+  {
+    "objectID": "scholarship/papers.html#papers",
+    "href": "scholarship/papers.html#papers",
+    "title": "Scholarship",
+    "section": "Papers",
+    "text": "Papers\n\nDomesticated (i.e., peer-reviewed)\n\nVolumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)\n\nPDF\nProQuest\n\nClues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)\n\nIEEE\n\n\n\n\nFeral (i.e., pre-prints & arXiv)\n\nVolumes of Nullhomotopies in Nilpotent Spaces (2025)\n\narXiv\nPDF\n\nSimple Tilings of Nilpotent Lie Groups (2024)\n\narXiv\nPDF"
+  },
+  {
+    "objectID": "scholarship/papers.html#presentations",
+    "href": "scholarship/papers.html#presentations",
+    "title": "Scholarship",
+    "section": "Presentations",
+    "text": "Presentations\n\nVolumes of Nullhomotopies in Nilpotent Spaces\n\nPhD Defense (2025/05/07)\n\nMathematical Quasicrystals: The Taming of the Hullabaloo\n\nUndergraduate Colloquium (2025/02/05)\n\nTiling Spaces Which are Fiber Bundles over Nilmanfiolds\n\n41st Workshop in Geometric Topology (2024/06/13)\n\nThe Hull of a Manifold with Bounded Geometry\n\nUCSB Topology Seminar, Advancement Talk (2022/05/24)\n\nAn Introduction To Tiling Spaces\n\nUCSB Graduate Topology Semniar (2022/04/06)"
+  },
+  {
+    "objectID": "scholarship/papers.html#miscellaneous-works",
+    "href": "scholarship/papers.html#miscellaneous-works",
+    "title": "Papers",
+    "section": "Miscellaneous Works",
+    "text": "Miscellaneous Works\nThese works are not peer reviewed\n\nElliptic Curve Cryptography (2021)\n\nPDF\n\nMuch Ado About Nothing, or All For Naught? Investigating the Zeros of Complex Functions (Undergraduate Honors Thesis, 2019)\n\nPDF"
+  },
+  {
+    "objectID": "scholarship/papers.html#postgraduate-works",
+    "href": "scholarship/papers.html#postgraduate-works",
+    "title": "Papers",
+    "section": "",
+    "text": "Volumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)\n\nPDF\nProQuest\n\nClues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)\n\nIEEE\n\n\n\n\n\n\nVolumes of Nullhomotopies in Nilpotent Spaces (2025)\n\narXiv\nPDF\n\nSimple Tilings of Nilpotent Lie Groups (2024)\n\narXiv\nPDF"
+  },
+  {
+    "objectID": "scholarship/presentations.html",
+    "href": "scholarship/presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Volumes of Nullhomotopies in Nilpotent Spaces\n\nPhD Defense (2025/05/07)\n\nMathematical Quasicrystals: The Taming of the Hullabaloo\n\nUndergraduate Colloquium (2025/02/05)\n\nTiling Spaces Which are Fiber Bundles over Nilmanfiolds\n\n41st Workshop in Geometric Topology (2024/06/13)\n\nThe Hull of a Manifold with Bounded Geometry\n\nUCSB Topology Seminar, Advancement Talk (2022/05/24)\n\nAn Introduction To Tiling Spaces\n\nUCSB Graduate Topology Semniar (2022/04/06)"
+  },
+  {
+    "objectID": "scholarship/conferences.html",
+    "href": "scholarship/conferences.html",
+    "title": "Conferences",
+    "section": "",
+    "text": "Perhaps you’ve seen me at one of the following conferences:\n\n\n\nMathFest, Boston, MA\nVirtue Education Workshop, Pepperdine, Malibu, CA\nJoint Mathematics Meeting, Washington, DC\n\n\n\n\n\nAMS SE Sectional Meeting, Tulane University, New Orleans, LA\nMathFest, Sacramento, CA\n\n\n\n\n\n41st Workshop in Geometric Topology, Calvin University, Grand Rapids, MI\nQuantitative Topology and Beyond, Simons Foundation, New York City, NY\nJoint Mathematics Meeting, San Francisco, CA\n\n\n\n\n\nGeometry and Analysis of Groups and Manifolds, Centro De Giorgi, Pisa, Italy\nSub-Riemannian Geometry and Beyond III, Centro De Giorgi, Pisa, Italy\n\n\n\n\n\nGraduate Student Concentration Week on Metric Geometry (Workshop in Analysis and Probability), Texas A&M, College Station, TX\n\n\n\n\n\nJoint Mathematics Meeting, Baltimore, MD"
+  },
+  {
+    "objectID": "scholarship/conferences.html#have-we-met-before",
+    "href": "scholarship/conferences.html#have-we-met-before",
+    "title": "Conferences",
+    "section": "",
+    "text": "Perhaps you’ve seen me at one of the following conferences:\n\n\n\nMathFest, Boston, MA\nVirtue Education Workshop, Pepperdine, Malibu, CA\nJoint Mathematics Meeting, Washington, DC\n\n\n\n\n\nAMS SE Sectional Meeting, Tulane University, New Orleans, LA\nMathFest, Sacramento, CA\n\n\n\n\n\n41st Workshop in Geometric Topology, Calvin University, Grand Rapids, MI\nQuantitative Topology and Beyond, Simons Foundation, New York City, NY\nJoint Mathematics Meeting, San Francisco, CA\n\n\n\n\n\nGeometry and Analysis of Groups and Manifolds, Centro De Giorgi, Pisa, Italy\nSub-Riemannian Geometry and Beyond III, Centro De Giorgi, Pisa, Italy\n\n\n\n\n\nGraduate Student Concentration Week on Metric Geometry (Workshop in Analysis and Probability), Texas A&M, College Station, TX\n\n\n\n\n\nJoint Mathematics Meeting, Baltimore, MD"
+=======
     "objectID": "about.html#certifications-credentials",
     "href": "about.html#certifications-credentials",
     "title": "About",
@@ -355,5 +488,6 @@
     "title": "About",
     "section": "This Website",
     "text": "This Website\nYou wanted to learn about my website? Congratulations! You found it! Here’s a prize for you.\nThis site is intended both as a resource for my students, as well as a living CV and eventually a blog for various items related to my professional life. This means that the site will likely change as time goes on. I urge you, please don’t get too attached to it. Use the navigation bar above to navigate to the pages of most relevant interest."
+>>>>>>> main
   }
 ]

@@ -73,6 +73,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="sty/styles.css">
 </head>
@@ -279,7 +308,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./outreach.html"> 
-<span class="menu-text">Outreach &amp; Service</span></a>
+<span class="menu-text">Service &amp; Outreach</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
@@ -338,7 +367,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#papers" id="toc-papers" class="nav-link active" data-scroll-target="#papers">Papers</a>
+  <li><a href="#research-interests" id="toc-research-interests" class="nav-link active" data-scroll-target="#research-interests">Research Interests</a>
+  <ul class="collapse">
+  <li><a href="#quantitative-topology" id="toc-quantitative-topology" class="nav-link" data-scroll-target="#quantitative-topology">Quantitative Topology</a></li>
+  <li><a href="#tiling-spaces" id="toc-tiling-spaces" class="nav-link" data-scroll-target="#tiling-spaces">Tiling Spaces</a></li>
+  </ul></li>
+  <li><a href="#papers" id="toc-papers" class="nav-link" data-scroll-target="#papers">Papers</a>
   <ul class="collapse">
   <li><a href="#domesticated-i.e.-peer-reviewed" id="toc-domesticated-i.e.-peer-reviewed" class="nav-link" data-scroll-target="#domesticated-i.e.-peer-reviewed">Domesticated (i.e., peer-reviewed)</a></li>
   <li><a href="#feral-i.e.-pre-prints-arxiv" id="toc-feral-i.e.-pre-prints-arxiv" class="nav-link" data-scroll-target="#feral-i.e.-pre-prints-arxiv">Feral (i.e., pre-prints &amp; arXiv)</a></li>
@@ -356,6 +390,19 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<section id="research-interests" class="level2">
+<h2 class="anchored" data-anchor-id="research-interests">Research Interests</h2>
+<section id="quantitative-topology" class="level3">
+<h3 class="anchored" data-anchor-id="quantitative-topology">Quantitative Topology</h3>
+<p>If you want to study the complexity of a topological space, you might study the algebraic invariants of this space. Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. How does this algebraic topological complexity translate into geometric complexity? This broad question motivates the field of so-called “quantitative topology”.</p>
+<p>For example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)? My advisor <a href="https://www.math.toronto.edu/manin/">Fedya Manin</a> has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.</p>
+<p>I have also studied elliptic manifolds, where I asked “Given a nilpotent Lie group <span class="math inline">\(G\)</span>, what algebraic information is necessary/sufficient to guarantee that a closed manifold <span class="math inline">\(M\)</span> is <span class="math inline">\(G\)</span>-elliptic?” In some sense, this asks which manifolds <span class="math inline">\(M\)</span> can be efficiently wrapped using the group <span class="math inline">\(G\)</span> as your wrapping paper. Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.</p>
+</section>
+<section id="tiling-spaces" class="level3">
+<h3 class="anchored" data-anchor-id="tiling-spaces">Tiling Spaces</h3>
+<p>I also study tiling spaces, where I am interested in extending some existing theory to the relevant nilpotent setting. For example, I extend work about the topology of Euclidean tiling spaces to tiling spaces of certain nilpotent Lie groups.</p>
+</section>
+</section>
 <section id="papers" class="level2">
 <h2 class="anchored" data-anchor-id="papers">Papers</h2>
 <section id="domesticated-i.e.-peer-reviewed" class="level3">
@@ -364,7 +411,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Volumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)
 <ul>
 <li><a href="media/papers/hansen-dissertation-2025-05-02.pdf">PDF</a></li>
-<li>ProQuest Link Coming soon!</li>
+<li><a href="https://escholarship.org/uc/item/5sp4d7zd">ProQuest</a></li>
 </ul></li>
 <li>Clues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)
 <ul>
@@ -375,7 +422,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="feral-i.e.-pre-prints-arxiv" class="level3">
 <h3 class="anchored" data-anchor-id="feral-i.e.-pre-prints-arxiv">Feral (i.e., pre-prints &amp; arXiv)</h3>
 <ul>
-<li>Volumes of Nullhomotopies in Nilpotent Spaces (journal version, 2025)
+<li>Volumes of Nullhomotopies in Nilpotent Spaces (2025)
 <ul>
 <li><a href="https://arxiv.org/abs/2510.00159">arXiv</a></li>
 <li><a href="media/papers/2025-09-30 12-21-22 Volumes-of-Nullhomotopies.pdf">PDF</a></li>

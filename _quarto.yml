@@ -10,9 +10,18 @@ website:
       - href: index.qmd
         text: Home
       - teaching/index.qmd
-      - scholarship.qmd
       - outreach.qmd
       - about.qmd
+      - text: Scholarship
+        menu:
+        - href: scholarship/research.qmd
+          text: Research Interests
+        - href: scholarship/papers.qmd
+          text: Papers
+        - href: scholarship/presentations.qmd
+          text: Presentations
+        - href: scholarship/conferences.qmd
+          text: Have We Met? (Conferences)
       - text: Other
         menu: 
         - href: posts.qmd
