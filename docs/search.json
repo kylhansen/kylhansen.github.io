@@ -53,7 +53,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "You wanted to learn about my website? Congratulations! You found it! Here’s a prize for you.\nThis site is intended both as a resource for my students, as well as a living CV and eventually a blog for various items related to my professional life. This means that the site will likely change as time goes on. I urge you, please don’t get too attached to it. Use the navigation bar above to navigate to the pages of most relevant interest."
+    "text": "During my time in graduate school I completed the UCSB Certificate in College and University Teaching (“CCUT”) program, a description of which can be found here. My CCUT portfolio is available here."
   },
   {
     "objectID": "index.html",
@@ -329,6 +329,7 @@
     "text": "tikz and diagrams\n\ngreat for drawing precise diagrams!\nwon’t get here today, but if you’re interested, look up tikz and tikzcd."
   },
   {
+<<<<<<< HEAD
     "objectID": "outreach.html#ucsb-directed-reading-program-drp",
     "href": "outreach.html#ucsb-directed-reading-program-drp",
     "title": "Service & Outreach",
@@ -460,5 +461,33 @@
     "title": "Conferences",
     "section": "",
     "text": "Perhaps you’ve seen me at one of the following conferences:\n\n\n\nMathFest, Boston, MA\nVirtue Education Workshop, Pepperdine, Malibu, CA\nJoint Mathematics Meeting, Washington, DC\n\n\n\n\n\nAMS SE Sectional Meeting, Tulane University, New Orleans, LA\nMathFest, Sacramento, CA\n\n\n\n\n\n41st Workshop in Geometric Topology, Calvin University, Grand Rapids, MI\nQuantitative Topology and Beyond, Simons Foundation, New York City, NY\nJoint Mathematics Meeting, San Francisco, CA\n\n\n\n\n\nGeometry and Analysis of Groups and Manifolds, Centro De Giorgi, Pisa, Italy\nSub-Riemannian Geometry and Beyond III, Centro De Giorgi, Pisa, Italy\n\n\n\n\n\nGraduate Student Concentration Week on Metric Geometry (Workshop in Analysis and Probability), Texas A&M, College Station, TX\n\n\n\n\n\nJoint Mathematics Meeting, Baltimore, MD"
+=======
+    "objectID": "about.html#certifications-credentials",
+    "href": "about.html#certifications-credentials",
+    "title": "About",
+    "section": "",
+    "text": "During my time in graduate school I completed the UCSB Certificate in College and University Teaching (“CCUT”) program, a description of which can be found here. My CCUT portfolio is available here."
+  },
+  {
+    "objectID": "about.html#cv",
+    "href": "about.html#cv",
+    "title": "About",
+    "section": "CV",
+    "text": "CV\nSee my CV here."
+  },
+  {
+    "objectID": "about.html#hobbies-interests",
+    "href": "about.html#hobbies-interests",
+    "title": "About",
+    "section": "Hobbies & Interests",
+    "text": "Hobbies & Interests\nI enjoy some of the following (not necessarily in this order):\n\nrunning\nbiking\nswimming\nbaking\nreading\n\nI am somewhat interested in philosophy and theory of the mind/consciousness, especially where connections to mathematics may be made."
+  },
+  {
+    "objectID": "about.html#this-website",
+    "href": "about.html#this-website",
+    "title": "About",
+    "section": "This Website",
+    "text": "This Website\nYou wanted to learn about my website? Congratulations! You found it! Here’s a prize for you.\nThis site is intended both as a resource for my students, as well as a living CV and eventually a blog for various items related to my professional life. This means that the site will likely change as time goes on. I urge you, please don’t get too attached to it. Use the navigation bar above to navigate to the pages of most relevant interest."
+>>>>>>> main
   }
 ]
