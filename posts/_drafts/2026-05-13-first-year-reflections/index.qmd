@@ -1,0 +1,11 @@
+---
+title: "But First..."
+subtitle: "First Year Reflections"
+description: "A brief self-assessment of my performance in the first year of teaching as an Assistant Professor of Mathematics"
+date: 2026-05-13
+date-modified: today
+image: preview-image.jpg
+categories: []
+draft: true
+---
+

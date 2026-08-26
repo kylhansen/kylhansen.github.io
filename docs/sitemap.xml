@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kylhansen.github.io/scholarship.html</loc>
-    <lastmod>2025-10-02T04:43:30.961Z</lastmod>
+    <lastmod>2026-08-07T14:38:54.700Z</lastmod>
   </url>
   <url>
     <loc>https://kylhansen.github.io/posts.html</loc>
@@ -14,15 +14,15 @@
   </url>
   <url>
     <loc>https://kylhansen.github.io/teaching/index.html</loc>
-    <lastmod>2025-08-16T00:39:19.289Z</lastmod>
+    <lastmod>2026-05-14T00:12:24.850Z</lastmod>
   </url>
   <url>
     <loc>https://kylhansen.github.io/about.html</loc>
-    <lastmod>2025-09-02T21:38:50.858Z</lastmod>
+    <lastmod>2026-08-07T14:30:17.137Z</lastmod>
   </url>
   <url>
     <loc>https://kylhansen.github.io/index.html</loc>
-    <lastmod>2025-09-15T23:32:53.297Z</lastmod>
+    <lastmod>2026-08-26T01:01:29.605Z</lastmod>
   </url>
   <url>
     <loc>https://kylhansen.github.io/lunch.html</loc>
@@ -34,14 +34,30 @@
   </url>
   <url>
     <loc>https://kylhansen.github.io/outreach.html</loc>
-    <lastmod>2025-09-24T14:43:33.765Z</lastmod>
+    <lastmod>2026-08-07T14:31:17.623Z</lastmod>
   </url>
   <url>
     <loc>https://kylhansen.github.io/other.html</loc>
-    <lastmod>2025-08-16T00:39:19.287Z</lastmod>
+    <lastmod>2026-05-14T00:10:31.795Z</lastmod>
   </url>
   <url>
     <loc>https://kylhansen.github.io/workshops/2025-09-24_LaTeX_Workshop.html</loc>
-    <lastmod>2025-09-24T06:48:38.162Z</lastmod>
+    <lastmod>2026-05-14T00:04:26.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kylhansen.github.io/scholarship/research.html</loc>
+    <lastmod>2026-08-26T00:56:47.487Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kylhansen.github.io/scholarship/papers.html</loc>
+    <lastmod>2026-08-26T00:58:10.861Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kylhansen.github.io/scholarship/presentations.html</loc>
+    <lastmod>2026-08-26T00:56:48.446Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kylhansen.github.io/scholarship/conferences.html</loc>
+    <lastmod>2026-08-26T01:01:25.941Z</lastmod>
   </url>
 </urlset>

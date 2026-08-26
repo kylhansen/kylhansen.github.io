@@ -1,42 +1,26 @@
 ---
-title: "Scholarship"
+title: "Papers"
 description: "[arXiv](https://arxiv.org/a/0000-0002-8239-8782.html) • [Google Scholar](https://scholar.google.com/citations?user=t20yhwsAAAAJ&hl=en) • [ORCiD](https://orcid.org/0000-0002-8239-8782)"
 ---
 
-
-## Papers
+## Postgraduate Works
 
 ### Domesticated (i.e., peer-reviewed)
 
 - Volumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)
    - [PDF](media/papers/hansen-dissertation-2025-05-02.pdf)
-   - ProQuest Link Coming soon!
+   - [ProQuest](https://escholarship.org/uc/item/5sp4d7zd)
 - Clues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)    
    - [IEEE](https://ieeexplore.ieee.org/document/8920109)
 
 ### Feral (i.e., pre-prints & arXiv)
 
-- Volumes of Nullhomotopies in Nilpotent Spaces (journal version, 2025)
+- Volumes of Nullhomotopies in Nilpotent Spaces (2025)
   - [arXiv](https://arxiv.org/abs/2510.00159)
   - [PDF](media/papers/2025-09-30%2012-21-22%20Volumes-of-Nullhomotopies.pdf)
 - Simple Tilings of Nilpotent Lie Groups (2024)
   - [arXiv](http://arxiv.org/abs/2402.10194)
   - [PDF](media/papers/Simple-tilings-2-15-24.pdf)
-
-
-## Presentations
-
-- [Volumes of Nullhomotopies in Nilpotent Spaces](media/presentations/Volumes-of-Nullhomotopies-defense-2025-05-07.pdf)
-  - PhD Defense (2025/05/07)
-- [Mathematical Quasicrystals: The Taming of the Hullabaloo](media/presentations/quasicrystals-general-2025-02-05.pdf)
-  - Undergraduate Colloquium (2025/02/05)
-- [Tiling Spaces Which are Fiber Bundles over Nilmanfiolds](media/presentations/Tiling-Spaces-Fiber-Bundles-WGT24.pdf)
-  - 41st Workshop in Geometric Topology (2024/06/13)
-
-- [The Hull of a Manifold with Bounded Geometry](media/presentations/The_Hull_of_a_Manifold_with_Bounded_Geometry.pdf)
-  - UCSB Topology Seminar, Advancement Talk (2022/05/24)
-- [An Introduction To Tiling Spaces](media/presentations/Intro_to_Tiling_Spaces.pdf)
-  - UCSB Graduate Topology Semniar (2022/04/06)
 
 
 ## Miscellaneous Works

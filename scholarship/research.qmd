@@ -1,0 +1,21 @@
+---
+title: "Research Interests"
+description: "[arXiv](https://arxiv.org/a/0000-0002-8239-8782.html) • [Google Scholar](https://scholar.google.com/citations?user=t20yhwsAAAAJ&hl=en) • [ORCiD](https://orcid.org/0000-0002-8239-8782)"
+---
+
+## Quantitative Topology
+If you want to study the complexity of a topological space, you might study the algebraic invariants of this space.
+Often, however, topological spaces such as manifolds come equipped with some geometric structure as well. 
+How does this algebraic topological complexity translate into geometric complexity?
+This broad question motivates the field of so-called "quantitative topology".
+
+For example, if you have a nullhomotopic map (a priori, algebraic information) into your space, what is the most efficient way to perform this nullhomotopy (geometric information)?
+My advisor [Fedya Manin](https://www.math.toronto.edu/manin/) has asked (and answered) similar questions in the context of simpy connected target spaces, and some of my current work is an extension of this to nilpotent targets.
+
+I have also studied elliptic manifolds, where I asked "Given a nilpotent Lie group $G$, what algebraic information is necessary/sufficient to guarantee that a closed manifold $M$ is $G$-elliptic?" 
+In some sense, this asks which manifolds $M$ can be efficiently wrapped using the group $G$ as your wrapping paper.
+Recent advances in related areas have opened up some clear paths forward in this investigation, where it seems likely that the Heisenberg group is a poor choice of wrapping paper for a flat torus.
+
+## Tiling Spaces
+I also study tiling spaces, where I am interested in extending some existing theory to the relevant nilpotent setting. 
+For example, I extend work about the topology of Euclidean tiling spaces to tiling spaces of certain nilpotent Lie groups.

@@ -2,8 +2,8 @@
 title: "Teaching"
 ---
 
-Some of my class policies can be found [here](policies/index.qmd). 
-Some of my (less than helpful) common advice for students be found [here](suggestions/index.qmd). 
+<!-- Some of my class policies can be found [here](policies/index.qmd). 
+Some of my (less than helpful) common advice for students be found [here](suggestions/index.qmd).  -->
 
 Below is a list of courses I am teaching/have taught in the past.
 

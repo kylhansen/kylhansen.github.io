@@ -1,0 +1,16 @@
+---
+title: "Presentations"
+description: "[arXiv](https://arxiv.org/a/0000-0002-8239-8782.html) • [Google Scholar](https://scholar.google.com/citations?user=t20yhwsAAAAJ&hl=en) • [ORCiD](https://orcid.org/0000-0002-8239-8782)"
+---
+
+- [Volumes of Nullhomotopies in Nilpotent Spaces](media/presentations/Volumes-of-Nullhomotopies-defense-2025-05-07.pdf)
+  - PhD Defense (2025/05/07)
+- [Mathematical Quasicrystals: The Taming of the Hullabaloo](media/presentations/quasicrystals-general-2025-02-05.pdf)
+  - Undergraduate Colloquium (2025/02/05)
+- [Tiling Spaces Which are Fiber Bundles over Nilmanfiolds](media/presentations/Tiling-Spaces-Fiber-Bundles-WGT24.pdf)
+  - 41st Workshop in Geometric Topology (2024/06/13)
+
+- [The Hull of a Manifold with Bounded Geometry](media/presentations/The_Hull_of_a_Manifold_with_Bounded_Geometry.pdf)
+  - UCSB Topology Seminar, Advancement Talk (2022/05/24)
+- [An Introduction To Tiling Spaces](media/presentations/Intro_to_Tiling_Spaces.pdf)
+  - UCSB Graduate Topology Semniar (2022/04/06)
