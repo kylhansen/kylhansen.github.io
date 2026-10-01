@@ -8,7 +8,7 @@ description: "[arXiv](https://arxiv.org/a/0000-0002-8239-8782.html) • [Google 
 ### Domesticated (i.e., peer-reviewed)
 
 - Volumes of Nullhomotopies in Nilpotent Spaces (PhD Dissertation, 2025)
-   - [PDF](media/papers/hansen-dissertation-2025-05-02.pdf)
+   - [PDF](papers/hansen-dissertation-2025-05-02.pdf)
    - [ProQuest](https://escholarship.org/uc/item/5sp4d7zd)
 - Clues About Bluffing in Clue: Is Conventional Wisdom Wise? (2019)    
    - [IEEE](https://ieeexplore.ieee.org/document/8920109)
@@ -17,16 +17,16 @@ description: "[arXiv](https://arxiv.org/a/0000-0002-8239-8782.html) • [Google 
 
 - Volumes of Nullhomotopies in Nilpotent Spaces (2025)
   - [arXiv](https://arxiv.org/abs/2510.00159)
-  - [PDF](media/papers/2025-09-30%2012-21-22%20Volumes-of-Nullhomotopies.pdf)
+  - [PDF](papers/2025-09-30%2012-21-22%20Volumes-of-Nullhomotopies.pdf)
 - Simple Tilings of Nilpotent Lie Groups (2024)
   - [arXiv](http://arxiv.org/abs/2402.10194)
-  - [PDF](media/papers/Simple-tilings-2-15-24.pdf)
+  - [PDF](papers/Simple-tilings-2-15-24.pdf)
 
 
 ## Miscellaneous Works
 These works are not peer reviewed
 
 - Elliptic Curve Cryptography (2021)
-  - [PDF](media/papers/Elliptic_Curve_Cryptography.pdf)
+  - [PDF](papers/Elliptic_Curve_Cryptography.pdf)
 - Much Ado About Nothing, or All For Naught? Investigating the Zeros of Complex Functions (Undergraduate Honors Thesis, 2019)
-  - [PDF](media/papers/Major_Honors.pdf)
+  - [PDF](papers/Major_Honors.pdf)

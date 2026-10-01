@@ -1,87 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kylhansen.github.io/scholarship.html</loc>
-<<<<<<< HEAD
-    <lastmod>2026-08-07T14:38:54.700Z</lastmod>
-=======
-    <lastmod>2025-10-03T21:43:26.748Z</lastmod>
->>>>>>> main
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/posts.html</loc>
-    <lastmod>2025-08-19T20:39:36.596Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/teaching/suggestions/index.html</loc>
-    <lastmod>2025-08-16T00:39:19.289Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/teaching/index.html</loc>
-<<<<<<< HEAD
-    <lastmod>2026-05-14T00:12:24.850Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/about.html</loc>
-    <lastmod>2026-08-07T14:30:17.137Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/index.html</loc>
-    <lastmod>2026-08-26T01:01:29.605Z</lastmod>
-=======
-    <lastmod>2025-08-19T15:18:40.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/about.html</loc>
-    <lastmod>2025-10-31T02:36:40.942Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/index.html</loc>
-    <lastmod>2025-10-31T02:29:17.682Z</lastmod>
->>>>>>> main
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/lunch.html</loc>
-    <lastmod>2025-10-03T21:43:26.741Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/teaching/policies/index.html</loc>
-    <lastmod>2025-08-19T20:39:36.605Z</lastmod>
+    <loc>https://kylhansen.github.io/scholarship/research.html</loc>
+    <lastmod>2026-10-01T03:50:29.619Z</lastmod>
   </url>
   <url>
     <loc>https://kylhansen.github.io/outreach.html</loc>
-<<<<<<< HEAD
-    <lastmod>2026-08-07T14:31:17.623Z</lastmod>
-=======
-    <lastmod>2025-10-03T21:43:26.748Z</lastmod>
->>>>>>> main
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/other.html</loc>
-    <lastmod>2026-05-14T00:10:31.795Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/workshops/2025-09-24_LaTeX_Workshop.html</loc>
-<<<<<<< HEAD
-    <lastmod>2026-05-14T00:04:26.340Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/scholarship/research.html</loc>
-    <lastmod>2026-08-26T00:56:47.487Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kylhansen.github.io/scholarship/papers.html</loc>
-    <lastmod>2026-08-26T00:58:10.861Z</lastmod>
+    <lastmod>2026-08-26T04:16:52.361Z</lastmod>
   </url>
   <url>
     <loc>https://kylhansen.github.io/scholarship/presentations.html</loc>
-    <lastmod>2026-08-26T00:56:48.446Z</lastmod>
+    <lastmod>2026-10-01T03:53:55.881Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kylhansen.github.io/scholarship/papers.html</loc>
+    <lastmod>2026-10-01T03:54:47.909Z</lastmod>
   </url>
   <url>
     <loc>https://kylhansen.github.io/scholarship/conferences.html</loc>
-    <lastmod>2026-08-26T01:01:25.941Z</lastmod>
-=======
-    <lastmod>2025-10-31T02:29:11.394Z</lastmod>
->>>>>>> main
+    <lastmod>2026-08-26T04:16:52.374Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kylhansen.github.io/teaching/index.html</loc>
+    <lastmod>2026-08-26T04:16:52.375Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kylhansen.github.io/scholarship/presentations/index.html</loc>
+    <lastmod>2026-10-01T03:53:55.881Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kylhansen.github.io/scholarship/papers/index.html</loc>
+    <lastmod>2026-10-01T03:52:42.083Z</lastmod>
   </url>
 </urlset>
